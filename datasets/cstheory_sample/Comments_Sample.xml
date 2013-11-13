@@ -18,3 +18,4 @@
   <row Id="17" PostId="27" Score="4" Text="While that is indeed a &quot;minor sin,&quot; I think it is a major sin of TCS pedagogy that this is never mentioned explicitly! Every single CS student discovers this for themselves, and thinks something major is wrong until they are told that everyone knows this but no one talks about it.&#xA;&#xA;Also, wasn't there a brouhaha a couple of years ago when someone exploited the O(log n) model to give a sub-cubic time algorithm for some famous problem that was conjectured to be Omega(n^3)? Did that ever get resolved?" CreationDate="2010-08-16T21:13:23.190" UserId="50" />
   <row Id="18" PostId="15" Text="Ain't we just a click away from it?" CreationDate="2010-08-16T21:18:39.573" UserId="88" />
   <row Id="19" PostId="30" Text="@Suresh: I made the change." CreationDate="2010-08-16T21:22:57.017" UserId="7" />
+  </comments>

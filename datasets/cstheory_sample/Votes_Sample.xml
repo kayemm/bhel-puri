@@ -18,3 +18,4 @@
   <row Id="20" PostId="7" VoteTypeId="2" CreationDate="2010-08-16T00:00:00.000" />
   <row Id="21" PostId="11" VoteTypeId="2" CreationDate="2010-08-16T00:00:00.000" />
   <row Id="22" PostId="9" VoteTypeId="1" CreationDate="2010-08-16T00:00:00.000" />
+  </votes>
