@@ -1,4 +1,5 @@
 import json
+import csv
 
 class MapReduce:
     def __init__(self):
@@ -12,11 +13,16 @@ class MapReduce:
     def emit(self, value):
         self.result.append(value) 
 
-    def execute(self, data, mapper, reducer):
-        for line in data:
-            record = json.loads(line)
-            mapper(record)
-
+    def execute(self, data, mapper, reducer,fileFormat):
+        if (fileFormat == "JSON"):
+            for line in data:
+                record = json.loads(line)
+                mapper(record)
+        if (fileFormat == "CSV"):
+            csvReader = csv.reader(data,delimiter=',')
+            for line in csvReader:
+                mapper(line)
+        
         for key in self.intermediate:
             reducer(key, self.intermediate[key])
 
