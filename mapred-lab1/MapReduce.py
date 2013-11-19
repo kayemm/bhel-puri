@@ -21,10 +21,11 @@ class MapReduce:
         self.result.append(value) 
     # data - Name of the Input File
     # 
-    if (fileFormat <> "SOXML"):
-        data = open(fileName)
-        
+            
     def execute(self, fileName, mapper, reducer,fileFormat):
+        if (fileFormat <> "SOXML"):
+            data = open(fileName)
+        
         if (fileFormat == "JSON"):
             for line in data:
                 record = json.loads(line)
@@ -34,7 +35,11 @@ class MapReduce:
             csvReader = csv.reader(data,delimiter=',')
             for line in csvReader:
                 mapper(line)
-        
+                
+        if (fileFormat == "TEXT"):
+            for line in data:
+                mapper(line)
+                
         # SOXML is used to identify XML file dumps of StackExchange datasets.
         # In all StackExchange XML files, the main data is stored as attributes
         # of the xml element 'row'. We extract the attributes of the element as
@@ -51,6 +56,12 @@ class MapReduce:
             reducer(key, self.intermediate[key])
 
         #jenc = json.JSONEncoder(encoding='latin-1')
+        
         jenc = json.JSONEncoder()
-        for item in self.result:
-            print jenc.encode(item)
+        
+        if (fileFormat == "JSON"):
+            for item in self.result:
+                print jenc.encode(item)
+        else:
+            for item in self.result:
+                print item
