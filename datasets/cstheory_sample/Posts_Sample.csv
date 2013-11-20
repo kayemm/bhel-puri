@@ -1,0 +1,19 @@
+TableName,Id,PostTypeId,Score,ViewCount,OwnerUserId,AnswerCount,CommentCount,AcceptedAnswerId,CommentsCount,Title
+POSTS,2,1,10,625,48,2,3,20,,What is a good special-case sorting algorithm?
+POSTS,3,1,5,320,35,1,2,44,,What are some effective heuristics to find the number of Hamiltonian paths in a rectangular grid?
+POSTS,4,1,10,428,54,2,,,,What is the following variation on Set Cover known as?
+POSTS,5,1,5,223,64,1,,22,,Generalizing the FFT
+POSTS,6,1,5,143,47,1,,9,,Process modeling with fine-grained notions of location
+POSTS,7,1,14,337,63,3,4,247,,space-bounded TMs and oracles
+POSTS,8,2,2,,14,,1,,,
+POSTS,9,2,6,,77,,1,,,
+POSTS,10,1,5,1549,81,3,4,18,,Is Deolalikar's 2010 proof that $P \ne NP$ correct?
+POSTS,11,1,37,1792,7,11,,256,,What is the theoretical basis of imperative programming?
+POSTS,12,1,25,668,81,4,,13,,Correspondence between complexity classes and logic
+POSTS,13,2,18,,80,,1,,,
+POSTS,14,1,19,1086,81,5,5,,,What are some career options for someone with a computer scientist master degree?
+POSTS,15,1,15,371,88,0,6,,,To what extent MSO = WS1S  when adding relations?
+POSTS,16,2,19,,80,,,,,
+POSTS,17,1,13,494,87,1,3,23,,Why is it important that the secret is at the end when signing with MD5?
+POSTS,18,2,16,,90,,,,,
+POSTS,19,2,15,,77,,2,,,

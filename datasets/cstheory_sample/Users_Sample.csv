@@ -1,0 +1,19 @@
+TableName,Id,Reputation,DisplayName,UpVotes,DownVotes
+USERS,-1,1,Community,518,410
+USERS,2,101,Geoff Dalgas,1,0
+USERS,3,101,David Fullerton,1,0
+USERS,4,101,Kevin Montrose,3,0
+USERS,5,560,Anthony Leverrier,159,0
+USERS,7,905,Shane,89,0
+USERS,8,101,balint,2,0
+USERS,9,101,develop7,0,0
+USERS,10,261,Alexandru,55,1
+USERS,12,101,sepp2k,56,2
+USERS,13,126,Mark,0,0
+USERS,14,121,Paul,1,0
+USERS,15,4576,arnab,870,16
+USERS,18,182,Carter Tazio Schonwald,23,0
+USERS,19,101,sc_ray,0,0
+USERS,22,101,Pieter,1,0
+USERS,24,624,Sid,257,6
+USERS,25,5579,Aaron Roth,542,19
