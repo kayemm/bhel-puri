@@ -1,0 +1,24 @@
+Pillow is an image processing library for Python. For information on Pillow visit:
+https://pypi.python.org/pypi/Pillow/2.2.1
+
+Pillow Documentation: http://pillow.readthedocs.org/en/latest/
+
+Installation Steps (Windows Users):
+-----------------------------------
+1. Use one of the following installers depending on the version of python and 
+   the flavor of your OS. The installers are located within the pythonInstallers
+   folder. 
+   Pillow-2.2.1.win32-py2.7 - Python 2.7.x, Windows 32-bit
+   Pillow-2.2.1.win32-py3.2 - Python 3.2.x, Windows 32-bit
+   Pillow-2.2.1.win32-py3.3 - Python 3.3.x, Windows 32-bit
+   
+   Pillow-2.2.1.win-amd64-py2.7 - Python 2.7.x, Windows 32-bit
+   Pillow-2.2.1.win-amd64-py3.2 - Python 3.2.x, Windows 32-bit
+   Pillow-2.2.1.win-amd64-py3.3 - Python 3.3.x, Windows 32-bit
+   
+   Thanks to Christoph Gohlke for providing the installers.
+   Download Source : http://www.lfd.uci.edu/~gohlke/pythonlibs/
+   
+   
+
+   

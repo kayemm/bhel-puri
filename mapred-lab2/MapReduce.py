@@ -6,6 +6,7 @@
 #                          c. Plain text files. 
 import json
 import csv
+from PIL import Image
 import xml.etree.ElementTree as ET
 
 class MapReduce:
@@ -24,7 +25,7 @@ class MapReduce:
             
     def execute(self, fileNameList, mapper, reducer,fileFormat):
         for fileName in fileNameList:
-            if (fileFormat <> "SOXML"):
+            if (fileFormat <> "SOXML" and fileFormat <> "IMAGE"):
                 data = open(fileName)
             
             if (fileFormat == "JSON"):
@@ -51,6 +52,14 @@ class MapReduce:
             if (fileFormat == "TEXT"):
                 for line in data:
                     mapper(line)
+            
+            if (fileFormat == "IMAGE"):
+                imageFile = Image.open(fileName)
+                imageData = list(imageFile.getdata())
+                mapperInput = []
+                mapperInput.append(fileName)
+                mapperInput.append(imageData)
+                mapper(mapperInput)
                     
             # SOXML is used to identify XML file dumps of StackExchange datasets.
             # In all StackExchange XML files, the main data is stored as attributes
