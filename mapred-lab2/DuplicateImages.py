@@ -40,7 +40,7 @@ mr = MapReduce.MapReduce()
   1. 
      
   Extensions:
-  1. 
+  1. Extend the application to use a more efficient metric to compare two images. 
 """
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
