@@ -1,0 +1,2349 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<circulation_data>
+<description>This file contains usage data for over 80,000 items borrowed from the libraries at the University of Huddersfield.  Data has only been included where usage has been significant and when an ISBN is available.  Usage breakdowns are provided by year and, where usage has been significant, by academic school and by academic course.  See separate files for ID mappings for schools and courses.  Total loans and the current number of copies have been included for each item.  ISBNs included in the MARC record are shown, with further mappings available in the isbnlookup.xml file.</description>
+<licence>
+<type>CC0 / Open Data Commons</type>
+<statement>To the extent possible under law, Computing and Library Services, University of Huddersfield, UK has waived all copyright, moral rights, database rights, and any other rights that might be asserted over the data contained within this file.</statement>
+<url>http://labs.creativecommons.org/licenses/zero/1.0</url>
+<url>http://wiki.creativecommons.org/CC0</url>
+<url>http://www.opendatacommons.org</url>
+</licence>
+<items>
+<item id="51353">
+<title>Schools for the boys? : co-education reassessed /</title>
+<copies>2</copies>
+<isbn>0091608414</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/51353</url>
+<loan_history><total>11</total>
+<schools>
+<school id="D">3</school>
+<school id="H">7</school>
+</schools>
+<years>
+<year id="1998">2</year>
+<year id="1999">3</year>
+<year id="2002">2</year>
+<year id="2003">4</year>
+</years>
+</loan_history>
+</item>
+<item id="51433">
+<title>No problem here : a practical approach to education and 'race' in white schools /</title>
+<copies>1</copies>
+<isbn>0091729718</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/51433</url>
+<loan_history><total>6</total>
+<years>
+<year id="1999">2</year>
+<year id="2000">3</year>
+<year id="2003">1</year>
+</years>
+</loan_history>
+</item>
+<item id="3034">
+<title>Tropical urban regionalism : building in a South-east Asian city /</title>
+<copies>2</copies>
+<isbn>9971848708</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/3034</url>
+<loan_history><total>15</total>
+<schools>
+<school id="T">14</school>
+</schools>
+<courses>
+<course id="TA310">5</course>
+<course id="TA400">4</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">1</year>
+<year id="1999">3</year>
+<year id="2000">1</year>
+<year id="2002">6</year>
+<year id="2005">1</year>
+<year id="2006">2</year>
+</years>
+</loan_history>
+</item>
+<item id="6881">
+<title>Terrorism : a challenge to the state /</title>
+<copies>1</copies>
+<isbn>0855202971</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/6881</url>
+<loan_history><total>11</total>
+<schools>
+<school id="H">8</school>
+</schools>
+<courses>
+<course id="HB100">5</course>
+</courses>
+<years>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2003">1</year>
+<year id="2004">3</year>
+<year id="2005">1</year>
+<year id="2007">1</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="9706">
+<title>Total quality : success through people /</title>
+<copies>4</copies>
+<isbn>0852925115</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/9706</url>
+<loan_history><total>26</total>
+<schools>
+<school id="B">10</school>
+<school id="D">3</school>
+<school id="S">8</school>
+</schools>
+<courses>
+<course id="BM300">3</course>
+</courses>
+<years>
+<year id="1996">7</year>
+<year id="1998">3</year>
+<year id="2000">3</year>
+<year id="2001">5</year>
+<year id="2002">1</year>
+<year id="2005">2</year>
+<year id="2006">3</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="11039">
+<title>Daughters of decadence : women writers of the Fin de Si&#232;cle /</title>
+<copies>11</copies>
+<isbn>185381590X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/11039</url>
+<loan_history><total>116</total>
+<schools>
+<school id="A">103</school>
+<school id="D">5</school>
+</schools>
+<courses>
+<course id="AE100">49</course>
+<course id="AE110">16</course>
+<course id="AE200">4</course>
+<course id="AH100">5</course>
+<course id="AH230">8</course>
+<course id="AH702">4</course>
+</courses>
+<years>
+<year id="1999">6</year>
+<year id="2000">8</year>
+<year id="2001">1</year>
+<year id="2002">22</year>
+<year id="2003">13</year>
+<year id="2004">11</year>
+<year id="2005">21</year>
+<year id="2006">18</year>
+<year id="2007">15</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="17812">
+<title>Nursing ethics : theories and pragmatics /</title>
+<copies>4</copies>
+<isbn>0893036854</isbn>
+<isbn>0893030538</isbn>
+<isbn>0893030511</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/17812</url>
+<loan_history><total>43</total>
+<schools>
+<school id="H">41</school>
+</schools>
+<courses>
+<course id="HH923">4</course>
+<course id="HN100">9</course>
+<course id="HS140">4</course>
+<course id="HX855">4</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">2</year>
+<year id="2000">7</year>
+<year id="2001">7</year>
+<year id="2002">3</year>
+<year id="2003">4</year>
+<year id="2004">7</year>
+<year id="2005">6</year>
+<year id="2007">6</year>
+</years>
+</loan_history>
+</item>
+<item id="19300">
+<title>Humanizing office automation : the impact of ergonomics on productivity /</title>
+<copies>1</copies>
+<isbn>0894351079</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/19300</url>
+<loan_history><total>8</total>
+<years>
+<year id="1996">1</year>
+<year id="1998">2</year>
+<year id="2000">1</year>
+<year id="2004">2</year>
+<year id="2005">2</year>
+</years>
+</loan_history>
+</item>
+<item id="22582">
+<title>A leisure of one's own : a feminist perspective on women's leisure /</title>
+<copies>1</copies>
+<isbn>0910251290</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/22582</url>
+<loan_history><total>22</total>
+<schools>
+<school id="H">5</school>
+<school id="S">13</school>
+</schools>
+<courses>
+<course id="SF110">7</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">4</year>
+<year id="1999">3</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+<year id="2002">2</year>
+<year id="2003">4</year>
+<year id="2004">3</year>
+<year id="2005">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="25347">
+<title>Adequacy of description : the validity of qualitative findings.</title>
+<copies>1</copies>
+<isbn>086339146X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/25347</url>
+<loan_history><total>6</total>
+<schools>
+<school id="B">4</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="2002">2</year>
+<year id="2003">1</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="26600">
+<title>Surveys in social research /</title>
+<copies>2</copies>
+<isbn>1857280016</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/26600</url>
+<loan_history><total>49</total>
+<schools>
+<school id="B">6</school>
+<school id="D">5</school>
+<school id="H">25</school>
+<school id="S">5</school>
+</schools>
+<courses>
+<course id="HB100">4</course>
+<course id="HB130">5</course>
+<course id="HP110">3</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">3</year>
+<year id="1999">7</year>
+<year id="2000">6</year>
+<year id="2001">2</year>
+<year id="2002">3</year>
+<year id="2003">2</year>
+<year id="2004">7</year>
+<year id="2005">4</year>
+<year id="2006">4</year>
+<year id="2007">5</year>
+<year id="2008">5</year>
+</years>
+</loan_history>
+</item>
+<item id="27191">
+<title>American anxieties : a collective portrait of the 1930s /</title>
+<copies>1</copies>
+<isbn>1560006722</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/27191</url>
+<loan_history><total>5</total>
+<schools>
+<school id="A">4</school>
+</schools>
+<years>
+<year id="1999">1</year>
+<year id="2001">1</year>
+<year id="2002">2</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="36677">
+<title>The sociology of the National Health Service /</title>
+<copies>1</copies>
+<isbn>0904425010</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/36677</url>
+<loan_history><total>5</total>
+<schools>
+<school id="H">4</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2004">1</year>
+</years>
+</loan_history>
+</item>
+<item id="37523">
+<title>Food Packaging : A guide for the supplier, processor, and distributor /</title>
+<copies>1</copies>
+<isbn>0870550705</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/37523</url>
+<loan_history><total>7</total>
+<schools>
+<school id="S">5</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="1999">2</year>
+<year id="2001">3</year>
+<year id="2003">1</year>
+</years>
+</loan_history>
+</item>
+<item id="39795">
+<title>The adult learner : a neglected species /</title>
+<copies>14</copies>
+<isbn>0884151077</isbn>
+<isbn>0872010740</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/39795</url>
+<loan_history><total>354</total>
+<schools>
+<school id="B">3</school>
+<school id="D">64</school>
+<school id="H">256</school>
+</schools>
+<courses>
+<course id="BM300">3</course>
+<course id="D174">21</course>
+<course id="D374">9</course>
+<course id="DP250">6</course>
+<course id="DP300">3</course>
+<course id="HF722">3</course>
+<course id="HH207">7</course>
+<course id="HH217">3</course>
+<course id="HH277">13</course>
+<course id="HH400">11</course>
+<course id="HH407">35</course>
+<course id="HH417">5</course>
+<course id="HH661">18</course>
+<course id="HH923">18</course>
+<course id="HH927">5</course>
+<course id="HN100">22</course>
+<course id="HN110">5</course>
+<course id="HN267">8</course>
+<course id="HN750">7</course>
+<course id="HN940">4</course>
+<course id="HP140">6</course>
+<course id="HS110">5</course>
+<course id="HS130">3</course>
+<course id="HS430">3</course>
+<course id="HX855">16</course>
+</courses>
+<years>
+<year id="1996">8</year>
+<year id="1998">10</year>
+<year id="1999">37</year>
+<year id="2000">58</year>
+<year id="2001">16</year>
+<year id="2002">51</year>
+<year id="2003">47</year>
+<year id="2004">44</year>
+<year id="2005">28</year>
+<year id="2006">22</year>
+<year id="2007">25</year>
+<year id="2008">8</year>
+</years>
+</loan_history>
+</item>
+<item id="40584">
+<title>The Orkney child abuse scandal : suffer the little children /</title>
+<copies>1</copies>
+<isbn>1871479037</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/40584</url>
+<loan_history><total>7</total>
+<schools>
+<school id="H">6</school>
+</schools>
+<years>
+<year id="1996">2</year>
+<year id="1998">2</year>
+<year id="2000">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="48024">
+<title>Business education in the secondary school : a CTC response /</title>
+<copies>5</copies>
+<isbn>1873882084</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/48024</url>
+<loan_history><total>30</total>
+<schools>
+<school id="D">30</school>
+</schools>
+<courses>
+<course id="D274">23</course>
+<course id="DI490">3</course>
+</courses>
+<years>
+<year id="1998">14</year>
+<year id="1999">1</year>
+<year id="2000">5</year>
+<year id="2001">4</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="49496">
+<title>Exhibition Centre Villa Erba, Cernobbio : architect Mario Bellini = Centro Internazionale Esposizioni e Congressi, Villa Erba, Cernobbio /</title>
+<copies>1</copies>
+<isbn>1874235082</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/49496</url>
+<loan_history><total>6</total>
+<schools>
+<school id="T">6</school>
+</schools>
+<courses>
+<course id="TA400">3</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1999">1</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+</years>
+</loan_history>
+</item>
+<item id="54945">
+<title>Common defects in buildings /</title>
+<copies>3</copies>
+<isbn>0116705809</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/54945</url>
+<loan_history><total>25</total>
+<schools>
+<school id="T">22</school>
+</schools>
+<courses>
+<course id="TA110">4</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1998">3</year>
+<year id="1999">3</year>
+<year id="2000">4</year>
+<year id="2001">5</year>
+<year id="2002">4</year>
+<year id="2003">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="61080">
+<title>System dynamics /</title>
+<copies>2</copies>
+<isbn>0138804281</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/61080</url>
+<loan_history><total>7</total>
+<schools>
+<school id="C">7</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="1999">3</year>
+<year id="2005">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="62434">
+<title>Sixteenth-century England /</title>
+<copies>3</copies>
+<isbn>0140222316</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/62434</url>
+<loan_history><total>66</total>
+<schools>
+<school id="A">60</school>
+</schools>
+<courses>
+<course id="AH100">15</course>
+<course id="AH400">4</course>
+</courses>
+<years>
+<year id="1998">8</year>
+<year id="1999">12</year>
+<year id="2000">21</year>
+<year id="2001">9</year>
+<year id="2002">4</year>
+<year id="2003">5</year>
+<year id="2004">2</year>
+<year id="2005">1</year>
+<year id="2007">3</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="62705">
+<title>Buddhist scriptures /</title>
+<copies>1</copies>
+<isbn>0140440887</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/62705</url>
+<loan_history><total>6</total>
+<years>
+<year id="1996">1</year>
+<year id="1998">1</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="63407">
+<title>Social anarchism /</title>
+<copies>1</copies>
+<isbn>0140806911</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/63407</url>
+<loan_history><total>11</total>
+<schools>
+<school id="A">8</school>
+</schools>
+<years>
+<year id="1999">6</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2006">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="64491">
+<title>Race, community, and conflict : a study of Sparkbrook /</title>
+<copies>1</copies>
+<isbn>0192181629</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/64491</url>
+<loan_history><total>16</total>
+<schools>
+<school id="A">3</school>
+<school id="H">8</school>
+</schools>
+<courses>
+<course id="HB100">3</course>
+</courses>
+<years>
+<year id="1998">1</year>
+<year id="1999">6</year>
+<year id="2000">3</year>
+<year id="2002">3</year>
+<year id="2003">1</year>
+<year id="2004">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="65091">
+<title>The New Oxford history of music. Age of humanism 1540-1630 /</title>
+<copies>3</copies>
+<isbn>0193163047</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/65091</url>
+<loan_history><total>14</total>
+<schools>
+<school id="A">12</school>
+</schools>
+<years>
+<year id="1998">4</year>
+<year id="1999">4</year>
+<year id="2000">3</year>
+<year id="2004">3</year>
+</years>
+</loan_history>
+</item>
+<item id="65326">
+<title>A training course for TEFL /</title>
+<copies>4</copies>
+<isbn>0194327108</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/65326</url>
+<loan_history><total>19</total>
+<schools>
+<school id="A">6</school>
+<school id="B">3</school>
+<school id="D">4</school>
+</schools>
+<courses>
+<course id="AE100">4</course>
+<course id="BE100">3</course>
+<course id="D174">3</course>
+</courses>
+<years>
+<year id="1999">2</year>
+<year id="2000">1</year>
+<year id="2003">5</year>
+<year id="2004">2</year>
+<year id="2005">4</year>
+<year id="2006">1</year>
+<year id="2007">2</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="66513">
+<title>North-eastern England during the Wars of the Roses : lay society, war and politics, 1450-1500 /</title>
+<copies>3</copies>
+<isbn>0198200870</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/66513</url>
+<loan_history><total>44</total>
+<schools>
+<school id="A">39</school>
+</schools>
+<courses>
+<course id="AH100">11</course>
+<course id="AH400">5</course>
+<course id="AX290">10</course>
+</courses>
+<years>
+<year id="1996">4</year>
+<year id="1998">3</year>
+<year id="1999">3</year>
+<year id="2000">4</year>
+<year id="2001">3</year>
+<year id="2002">5</year>
+<year id="2003">10</year>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2006">5</year>
+<year id="2007">1</year>
+<year id="2008">4</year>
+</years>
+</loan_history>
+</item>
+<item id="67143">
+<title>Karl Marx's theory of history : a defence.</title>
+<copies>3</copies>
+<isbn>0198271964</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/67143</url>
+<loan_history><total>36</total>
+<schools>
+<school id="A">25</school>
+<school id="H">7</school>
+</schools>
+<courses>
+<course id="AH100">11</course>
+<course id="AH230">3</course>
+<course id="HB100">3</course>
+</courses>
+<years>
+<year id="1996">3</year>
+<year id="1998">3</year>
+<year id="1999">7</year>
+<year id="2000">7</year>
+<year id="2001">4</year>
+<year id="2002">2</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2005">3</year>
+<year id="2007">3</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="67277">
+<title>The managed economy : essays in British economic policy and performance since 1929 /</title>
+<copies>1</copies>
+<isbn>0198282907</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/67277</url>
+<loan_history><total>8</total>
+<schools>
+<school id="B">8</school>
+</schools>
+<courses>
+<course id="BE100">6</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="2000">1</year>
+<year id="2003">4</year>
+<year id="2005">2</year>
+</years>
+</loan_history>
+</item>
+<item id="68818">
+<title>Algorithms /</title>
+<copies>7</copies>
+<isbn>0201066734</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/68818</url>
+<loan_history><total>33</total>
+<schools>
+<school id="C">29</school>
+</schools>
+<courses>
+<course id="CC100">6</course>
+<course id="CC140">3</course>
+<course id="CC400">5</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1998">5</year>
+<year id="1999">7</year>
+<year id="2000">4</year>
+<year id="2001">5</year>
+<year id="2003">4</year>
+<year id="2004">3</year>
+<year id="2006">1</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="207125">
+<title>Electronics : a systems approach /</title>
+<copies>11</copies>
+<isbn>0201175584</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/207125</url>
+<loan_history><total>196</total>
+<schools>
+<school id="A">9</school>
+<school id="C">169</school>
+<school id="D">5</school>
+</schools>
+<courses>
+<course id="AM120">4</course>
+<course id="AX290">3</course>
+<course id="DP417">3</course>
+<course id="NE100">54</course>
+<course id="NE110">6</course>
+<course id="NE111">4</course>
+<course id="NE112">12</course>
+<course id="NE120">8</course>
+<course id="NE125">11</course>
+<course id="NE300">6</course>
+<course id="NM100">6</course>
+<course id="NM114">4</course>
+<course id="NM115">4</course>
+<course id="NM120">4</course>
+<course id="NX390">3</course>
+</courses>
+<years>
+<year id="1996">6</year>
+<year id="1998">10</year>
+<year id="1999">37</year>
+<year id="2000">39</year>
+<year id="2001">22</year>
+<year id="2002">36</year>
+<year id="2003">18</year>
+<year id="2004">3</year>
+<year id="2005">5</year>
+<year id="2006">5</year>
+<year id="2007">8</year>
+<year id="2008">7</year>
+</years>
+</loan_history>
+</item>
+<item id="69090">
+<title>Production management systems : a CIM perspective /</title>
+<copies>3</copies>
+<isbn>0201178206</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/69090</url>
+<loan_history><total>12</total>
+<schools>
+<school id="C">8</school>
+</schools>
+<courses>
+<course id="NM300">4</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1999">1</year>
+<year id="2000">3</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="70340">
+<title>Particulars of my life /</title>
+<copies>1</copies>
+<isbn>0224013149</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/70340</url>
+<loan_history><total>10</total>
+<schools>
+<school id="H">10</school>
+</schools>
+<courses>
+<course id="HB110">7</course>
+</courses>
+<years>
+<year id="2003">2</year>
+<year id="2004">2</year>
+<year id="2005">1</year>
+<year id="2006">2</year>
+<year id="2007">2</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="71664">
+<title>Graphic effects by photography /</title>
+<copies>2</copies>
+<isbn>0240508327</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/71664</url>
+<loan_history><total>5</total>
+<schools>
+<school id="T">5</school>
+</schools>
+<years>
+<year id="1999">1</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="71926">
+<title>Silent spring /</title>
+<copies>2</copies>
+<isbn>0241905931</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/71926</url>
+<loan_history><total>40</total>
+<schools>
+<school id="B">3</school>
+<school id="S">29</school>
+</schools>
+<courses>
+<course id="SC120">4</course>
+<course id="SG100">9</course>
+<course id="SG130">3</course>
+</courses>
+<years>
+<year id="1996">3</year>
+<year id="1998">3</year>
+<year id="1999">6</year>
+<year id="2000">3</year>
+<year id="2001">1</year>
+<year id="2002">11</year>
+<year id="2003">6</year>
+<year id="2004">5</year>
+<year id="2006">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="72943">
+<title>The emerging British underclass /</title>
+<copies>5</copies>
+<isbn>0255362633</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/72943</url>
+<loan_history><total>179</total>
+<schools>
+<school id="A">12</school>
+<school id="D">61</school>
+<school id="H">89</school>
+</schools>
+<courses>
+<course id="AH100">3</course>
+<course id="AH230">3</course>
+<course id="D112">9</course>
+<course id="D250">8</course>
+<course id="D312">4</course>
+<course id="D509">5</course>
+<course id="D801">9</course>
+<course id="DC130">4</course>
+<course id="DI400">7</course>
+<course id="DP300">4</course>
+<course id="HB100">12</course>
+<course id="HB130">3</course>
+<course id="HH100">4</course>
+<course id="HH120">9</course>
+<course id="HS160">3</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">25</year>
+<year id="1999">25</year>
+<year id="2000">24</year>
+<year id="2001">12</year>
+<year id="2002">10</year>
+<year id="2003">10</year>
+<year id="2004">15</year>
+<year id="2005">14</year>
+<year id="2006">17</year>
+<year id="2007">18</year>
+<year id="2008">8</year>
+</years>
+</loan_history>
+</item>
+<item id="72982">
+<title>Communication and organizational behavior : text and cases.</title>
+<copies>1</copies>
+<isbn>0256014329</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/72982</url>
+<loan_history><total>7</total>
+<schools>
+<school id="B">5</school>
+</schools>
+<courses>
+<course id="BM610">3</course>
+</courses>
+<years>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="75710">
+<title>Design for ballet /</title>
+<copies>2</copies>
+<isbn>0289705967</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/75710</url>
+<loan_history><total>13</total>
+<schools>
+<school id="T">12</school>
+</schools>
+<courses>
+<course id="TT150">4</course>
+</courses>
+<years>
+<year id="1998">2</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2006">2</year>
+<year id="2007">2</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="75745">
+<title>The art &amp; craft of handmade paper /</title>
+<copies>2</copies>
+<isbn>028970846X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/75745</url>
+<loan_history><total>21</total>
+<schools>
+<school id="D">6</school>
+<school id="T">13</school>
+</schools>
+<courses>
+<course id="D174">5</course>
+<course id="TT120">8</course>
+</courses>
+<years>
+<year id="1998">2</year>
+<year id="1999">1</year>
+<year id="2000">4</year>
+<year id="2002">6</year>
+<year id="2004">5</year>
+<year id="2006">1</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="76264">
+<title>The Edwardians : the remaking of British society /</title>
+<copies>1</copies>
+<isbn>0297769561</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/76264</url>
+<loan_history><total>47</total>
+<schools>
+<school id="A">38</school>
+<school id="D">3</school>
+<school id="H">3</school>
+</schools>
+<courses>
+<course id="AH100">28</course>
+</courses>
+<years>
+<year id="1998">3</year>
+<year id="1999">5</year>
+<year id="2000">3</year>
+<year id="2001">6</year>
+<year id="2002">8</year>
+<year id="2003">5</year>
+<year id="2004">5</year>
+<year id="2005">3</year>
+<year id="2006">3</year>
+<year id="2007">4</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="76441">
+<title>The music makers : heirs and rebels of the English musical renaissance, Edward Elgar to Benjamin Britten /</title>
+<copies>1</copies>
+<isbn>029778403X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/76441</url>
+<loan_history><total>9</total>
+<schools>
+<school id="A">8</school>
+</schools>
+<years>
+<year id="1996">2</year>
+<year id="1998">4</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2004">1</year>
+</years>
+</loan_history>
+</item>
+<item id="77393">
+<title>The management of innovation and design /</title>
+<copies>1</copies>
+<isbn>0304322180</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/77393</url>
+<loan_history><total>12</total>
+<schools>
+<school id="B">4</school>
+<school id="T">4</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="1998">1</year>
+<year id="1999">2</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+<year id="2004">3</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="81908">
+<title>Political economy and Soviet socialism /</title>
+<copies>2</copies>
+<isbn>0043350372</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/81908</url>
+<loan_history><total>6</total>
+<schools>
+<school id="A">5</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2001">2</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="83004">
+<title>Electrical power systems /</title>
+<copies>4</copies>
+<isbn>0050019422</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83004</url>
+<loan_history><total>18</total>
+<schools>
+<school id="C">17</school>
+</schools>
+<courses>
+<course id="NE100">6</course>
+<course id="NE300">4</course>
+</courses>
+<years>
+<year id="1998">4</year>
+<year id="1999">5</year>
+<year id="2000">3</year>
+<year id="2003">3</year>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="83097">
+<title>An introduction to soil science /</title>
+<copies>2</copies>
+<isbn>0050028685</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83097</url>
+<loan_history><total>26</total>
+<schools>
+<school id="S">26</school>
+</schools>
+<courses>
+<course id="SC120">5</course>
+<course id="SG100">6</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1998">4</year>
+<year id="1999">5</year>
+<year id="2000">8</year>
+<year id="2001">3</year>
+<year id="2002">1</year>
+<year id="2004">2</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="83670">
+<title>Person to person : ways of communicating /</title>
+<copies>3</copies>
+<isbn>0063180979</isbn>
+<isbn>006318170X</isbn>
+<isbn>0063181088</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83670</url>
+<loan_history><total>42</total>
+<schools>
+<school id="A">3</school>
+<school id="D">5</school>
+<school id="H">33</school>
+</schools>
+<courses>
+<course id="HB100">6</course>
+<course id="HB110">11</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">3</year>
+<year id="2000">10</year>
+<year id="2001">3</year>
+<year id="2002">4</year>
+<year id="2003">1</year>
+<year id="2004">3</year>
+<year id="2005">4</year>
+<year id="2006">8</year>
+<year id="2007">2</year>
+<year id="2008">3</year>
+</years>
+</loan_history>
+</item>
+<item id="84873">
+<title>How to run a small business /</title>
+<copies>1</copies>
+<isbn>0070365652</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/84873</url>
+<loan_history><total>6</total>
+<schools>
+<school id="B">4</school>
+</schools>
+<years>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2006">2</year>
+</years>
+</loan_history>
+</item>
+<item id="86758">
+<title>Verbal conditioning and behaviour.</title>
+<copies>1</copies>
+<isbn>0080128181</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/86758</url>
+<loan_history><total>10</total>
+<schools>
+<school id="H">6</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="2000">4</year>
+<year id="2003">1</year>
+<year id="2004">2</year>
+<year id="2005">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="89414">
+<title>Design : principles and practice / Product planning and the design brief : the evaluation and specification of consumer products /</title>
+<copies>1</copies>
+<isbn>0749261013</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/89414</url>
+<loan_history><total>5</total>
+<years>
+<year id="1998">1</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="93029">
+<title>Catalogue of political and personal satires preserved in the Department of Prints and Drawings in the British Museum.</title>
+<copies>2</copies>
+<isbn>0714107557</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/93029</url>
+<loan_history><total>11</total>
+<schools>
+<school id="A">3</school>
+</schools>
+<years>
+<year id="1999">2</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">2</year>
+<year id="2003">2</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="93435">
+<title>Marx's theory of ideology /</title>
+<copies>2</copies>
+<isbn>0709900457</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/93435</url>
+<loan_history><total>14</total>
+<schools>
+<school id="A">9</school>
+<school id="H">3</school>
+</schools>
+<courses>
+<course id="AH100">4</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2003">3</year>
+<year id="2005">1</year>
+<year id="2006">2</year>
+<year id="2007">4</year>
+</years>
+</loan_history>
+</item>
+<item id="94680">
+<title>The European Community : a guide through the maze /</title>
+<copies>4</copies>
+<isbn>0749412011</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/94680</url>
+<loan_history><total>17</total>
+<schools>
+<school id="A">5</school>
+<school id="B">9</school>
+</schools>
+<courses>
+<course id="BL100">6</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">2</year>
+<year id="1999">7</year>
+<year id="2000">1</year>
+<year id="2004">2</year>
+<year id="2005">3</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="97506">
+<title>Experimental organic chemistry : principles and practice /</title>
+<copies>2</copies>
+<isbn>0632020164</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/97506</url>
+<loan_history><total>14</total>
+<schools>
+<school id="S">11</school>
+</schools>
+<courses>
+<course id="SC100">3</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">1</year>
+<year id="2000">3</year>
+<year id="2001">2</year>
+<year id="2002">2</year>
+<year id="2003">1</year>
+<year id="2005">1</year>
+<year id="2007">2</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="100433">
+<title>Government and politics at work in Britain /</title>
+<copies>2</copies>
+<isbn>0582422450</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/100433</url>
+<loan_history><total>5</total>
+<schools>
+<school id="A">3</school>
+</schools>
+<courses>
+<course id="AE130">3</course>
+</courses>
+<years>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2006">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="105410">
+<title>The making of modern Japan.</title>
+<copies>3</copies>
+<isbn>0669846570</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/105410</url>
+<loan_history><total>16</total>
+<schools>
+<school id="A">16</school>
+</schools>
+<years>
+<year id="1999">7</year>
+<year id="2000">4</year>
+<year id="2001">3</year>
+<year id="2002">2</year>
+</years>
+</loan_history>
+</item>
+<item id="105578">
+<title>Feminism and the power of law /</title>
+<copies>2</copies>
+<isbn>0415038812</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/105578</url>
+<loan_history><total>25</total>
+<schools>
+<school id="A">10</school>
+<school id="H">12</school>
+</schools>
+<courses>
+<course id="AX290">3</course>
+<course id="HB100">4</course>
+<course id="HB110">3</course>
+<course id="HS100">3</course>
+</courses>
+<years>
+<year id="1999">5</year>
+<year id="2000">4</year>
+<year id="2001">2</year>
+<year id="2002">2</year>
+<year id="2003">2</year>
+<year id="2004">2</year>
+<year id="2005">2</year>
+<year id="2006">2</year>
+<year id="2007">3</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="107306">
+<title>The development of imagination : the private worlds of childhood /</title>
+<copies>1</copies>
+<isbn>041504636X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/107306</url>
+<loan_history><total>7</total>
+<schools>
+<school id="H">5</school>
+</schools>
+<years>
+<year id="1999">2</year>
+<year id="2001">1</year>
+<year id="2003">1</year>
+<year id="2004">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="111017">
+<title>The causes of wars : and other essays /</title>
+<copies>2</copies>
+<isbn>0851172431</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/111017</url>
+<loan_history><total>5</total>
+<years>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="111438">
+<title>Interior views /</title>
+<copies>1</copies>
+<isbn>0500340854</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/111438</url>
+<loan_history><total>5</total>
+<schools>
+<school id="T">5</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2002">1</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="112624">
+<title>The market for glory : Fleet Street ownership in the twentieth century /</title>
+<copies>1</copies>
+<isbn>0571146279</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/112624</url>
+<loan_history><total>26</total>
+<schools>
+<school id="A">23</school>
+</schools>
+<courses>
+<course id="AE130">7</course>
+</courses>
+<years>
+<year id="1996">4</year>
+<year id="1999">5</year>
+<year id="2000">2</year>
+<year id="2001">3</year>
+<year id="2002">1</year>
+<year id="2003">3</year>
+<year id="2004">2</year>
+<year id="2005">2</year>
+<year id="2006">2</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="113248">
+<title>Collected poems /</title>
+<copies>1</copies>
+<isbn>0571151965</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/113248</url>
+<loan_history><total>24</total>
+<schools>
+<school id="A">12</school>
+</schools>
+<courses>
+<course id="AE100">4</course>
+</courses>
+<years>
+<year id="1998">2</year>
+<year id="1999">2</year>
+<year id="2000">3</year>
+<year id="2001">3</year>
+<year id="2002">3</year>
+<year id="2003">2</year>
+<year id="2004">3</year>
+<year id="2005">2</year>
+<year id="2006">1</year>
+<year id="2007">2</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="114052">
+<title>Advanced vehicle technology /</title>
+<copies>2</copies>
+<isbn>071313660X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/114052</url>
+<loan_history><total>32</total>
+<schools>
+<school id="C">28</school>
+</schools>
+<courses>
+<course id="NM100">5</course>
+<course id="NM114">4</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">4</year>
+<year id="1999">6</year>
+<year id="2000">6</year>
+<year id="2001">4</year>
+<year id="2002">4</year>
+<year id="2003">3</year>
+<year id="2005">2</year>
+<year id="2006">2</year>
+</years>
+</loan_history>
+</item>
+<item id="115037">
+<title>Sales management : concepts and cases.</title>
+<copies>1</copies>
+<isbn>0471624950</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/115037</url>
+<loan_history><total>8</total>
+<schools>
+<school id="B">6</school>
+</schools>
+<years>
+<year id="2000">2</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="115158">
+<title>Automotive fuels and fuel systems : fuels, tanks, fuel delivery, metering, air charge augmentation, mixing, combustion and environmental considerations / Diesel.</title>
+<copies>1</copies>
+<isbn>0727301179</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/115158</url>
+<loan_history><total>16</total>
+<schools>
+<school id="C">9</school>
+</schools>
+<courses>
+<course id="NM100">4</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">3</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2006">4</year>
+<year id="2008">3</year>
+</years>
+</loan_history>
+</item>
+<item id="117045">
+<title>Total distribution : a framework for analysis, costing and control.</title>
+<copies>4</copies>
+<isbn>0716100681</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/117045</url>
+<loan_history><total>13</total>
+<schools>
+<school id="B">4</school>
+<school id="S">7</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="1999">3</year>
+<year id="2000">3</year>
+<year id="2001">4</year>
+<year id="2002">2</year>
+</years>
+</loan_history>
+</item>
+<item id="118966">
+<title>Sociology in the professions /</title>
+<copies>2</copies>
+<isbn>0729101460</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/118966</url>
+<loan_history><total>7</total>
+<schools>
+<school id="H">4</school>
+</schools>
+<years>
+<year id="1998">1</year>
+<year id="1999">1</year>
+<year id="2000">3</year>
+<year id="2004">2</year>
+</years>
+</loan_history>
+</item>
+<item id="120829">
+<title>Robust statistics : the approach based on influence functions /</title>
+<copies>1</copies>
+<isbn>0471829218</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/120829</url>
+<loan_history><total>6</total>
+<years>
+<year id="1999">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="123146">
+<title>Society and education in England since 1800.</title>
+<copies>2</copies>
+<isbn>041610780X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/123146</url>
+<loan_history><total>18</total>
+<schools>
+<school id="A">7</school>
+<school id="D">4</school>
+<school id="H">6</school>
+</schools>
+<courses>
+<course id="HS110">3</course>
+</courses>
+<years>
+<year id="1998">2</year>
+<year id="1999">2</year>
+<year id="2000">3</year>
+<year id="2001">4</year>
+<year id="2003">1</year>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2006">2</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="124444">
+<title>Beethoven /</title>
+<copies>4</copies>
+<isbn>0460031783</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/124444</url>
+<loan_history><total>67</total>
+<schools>
+<school id="A">56</school>
+<school id="C">3</school>
+<school id="D">8</school>
+</schools>
+<courses>
+<course id="AM100">37</course>
+<course id="AM110">3</course>
+<course id="AM300">6</course>
+<course id="AM400">3</course>
+<course id="D275">5</course>
+<course id="D716">3</course>
+<course id="NE112">3</course>
+</courses>
+<years>
+<year id="1998">4</year>
+<year id="1999">5</year>
+<year id="2000">8</year>
+<year id="2001">9</year>
+<year id="2002">14</year>
+<year id="2003">8</year>
+<year id="2004">6</year>
+<year id="2005">6</year>
+<year id="2006">4</year>
+<year id="2007">1</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="125013">
+<title>Powers of ten : a book about the relative size of things in the universe and the effect of adding another zero /</title>
+<copies>1</copies>
+<isbn>0716714094</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/125013</url>
+<loan_history><total>7</total>
+<schools>
+<school id="T">4</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="1998">2</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="125185">
+<title>Rules and representations /</title>
+<copies>1</copies>
+<isbn>0631126414</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/125185</url>
+<loan_history><total>5</total>
+<schools>
+<school id="H">4</school>
+</schools>
+<years>
+<year id="2000">1</year>
+<year id="2005">2</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="125236">
+<title>Musical instruments of the west.</title>
+<copies>1</copies>
+<isbn>0713405694</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/125236</url>
+<loan_history><total>6</total>
+<schools>
+<school id="A">5</school>
+</schools>
+<courses>
+<course id="AM100">3</course>
+</courses>
+<years>
+<year id="2004">1</year>
+<year id="2005">1</year>
+<year id="2006">2</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="125628">
+<title>Life &amp; tradition in West Yorkshire /</title>
+<copies>1</copies>
+<isbn>0460042394</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/125628</url>
+<loan_history><total>21</total>
+<schools>
+<school id="A">6</school>
+<school id="T">4</school>
+</schools>
+<years>
+<year id="1996">1</year>
+<year id="2000">3</year>
+<year id="2001">2</year>
+<year id="2002">5</year>
+<year id="2003">4</year>
+<year id="2004">1</year>
+<year id="2005">2</year>
+<year id="2006">1</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="126717">
+<title>Diagnosing the system : for organizations /</title>
+<copies>8</copies>
+<isbn>0471951366</isbn>
+<isbn>0471906751</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/126717</url>
+<loan_history><total>60</total>
+<schools>
+<school id="B">4</school>
+<school id="C">48</school>
+</schools>
+<courses>
+<course id="CC300">11</course>
+<course id="CC310">7</course>
+<course id="CC400">6</course>
+<course id="CC420">9</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1998">1</year>
+<year id="1999">16</year>
+<year id="2000">7</year>
+<year id="2001">7</year>
+<year id="2002">9</year>
+<year id="2003">4</year>
+<year id="2004">4</year>
+<year id="2005">2</year>
+<year id="2006">5</year>
+<year id="2007">2</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="127325">
+<title>Dyslexia : its neuropsychology and treatment /</title>
+<copies>1</copies>
+<isbn>0471908754</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127325</url>
+<loan_history><total>8</total>
+<schools>
+<school id="H">5</school>
+</schools>
+<courses>
+<course id="HB110">4</course>
+</courses>
+<years>
+<year id="2000">1</year>
+<year id="2004">3</year>
+<year id="2005">1</year>
+<year id="2007">1</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="127468">
+<title>Messiaen /</title>
+<copies>3</copies>
+<isbn>0460126032</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127468</url>
+<loan_history><total>46</total>
+<schools>
+<school id="A">34</school>
+<school id="D">6</school>
+</schools>
+<courses>
+<course id="AM100">18</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1998">5</year>
+<year id="1999">4</year>
+<year id="2000">5</year>
+<year id="2001">2</year>
+<year id="2002">4</year>
+<year id="2003">7</year>
+<year id="2005">5</year>
+<year id="2006">8</year>
+<year id="2007">1</year>
+<year id="2008">4</year>
+</years>
+</loan_history>
+</item>
+<item id="127554">
+<title>Power and ideology in Brazil /</title>
+<copies>2</copies>
+<isbn>0691076286</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127554</url>
+<loan_history><total>7</total>
+<schools>
+<school id="A">3</school>
+</schools>
+<years>
+<year id="2000">1</year>
+<year id="2002">4</year>
+<year id="2003">1</year>
+<year id="2004">1</year>
+</years>
+</loan_history>
+</item>
+<item id="127930">
+<title>Help for dyslexic children /</title>
+<copies>3</copies>
+<isbn>0416337406</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127930</url>
+<loan_history><total>17</total>
+<schools>
+<school id="D">5</school>
+<school id="H">6</school>
+</schools>
+<courses>
+<course id="HB100">5</course>
+</courses>
+<years>
+<year id="2000">3</year>
+<year id="2001">2</year>
+<year id="2002">5</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2007">2</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="128071">
+<title>Feminist groupwork /</title>
+<copies>3</copies>
+<isbn>0803982097</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/128071</url>
+<loan_history><total>22</total>
+<schools>
+<school id="A">3</school>
+<school id="D">8</school>
+<school id="H">9</school>
+</schools>
+<years>
+<year id="1996">3</year>
+<year id="1998">3</year>
+<year id="1999">1</year>
+<year id="2000">1</year>
+<year id="2001">5</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2005">2</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="129399">
+<title>Growing up and growing old : ageing and dependency in the life course /</title>
+<copies>3</copies>
+<isbn>0803988338</isbn>
+<isbn>0803985592</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/129399</url>
+<loan_history><total>33</total>
+<schools>
+<school id="H">27</school>
+</schools>
+<courses>
+<course id="HB100">3</course>
+<course id="HB110">5</course>
+</courses>
+<years>
+<year id="1999">6</year>
+<year id="2000">5</year>
+<year id="2001">2</year>
+<year id="2002">3</year>
+<year id="2003">3</year>
+<year id="2004">3</year>
+<year id="2005">1</year>
+<year id="2006">5</year>
+<year id="2007">3</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="131155">
+<title>Language in multicultural classrooms /</title>
+<copies>4</copies>
+<isbn>0713445084</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/131155</url>
+<loan_history><total>23</total>
+<schools>
+<school id="A">13</school>
+<school id="D">7</school>
+</schools>
+<courses>
+<course id="AE100">7</course>
+</courses>
+<years>
+<year id="1998">1</year>
+<year id="1999">4</year>
+<year id="2000">2</year>
+<year id="2002">1</year>
+<year id="2003">3</year>
+<year id="2004">2</year>
+<year id="2005">6</year>
+<year id="2006">2</year>
+<year id="2007">2</year>
+</years>
+</loan_history>
+</item>
+<item id="132465">
+<title>The lesbian heresy : a feminist perspective on the lesbianrevolution /</title>
+<copies>1</copies>
+<isbn>0704343827</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/132465</url>
+<loan_history><total>12</total>
+<schools>
+<school id="A">3</school>
+</schools>
+<years>
+<year id="1999">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2006">4</year>
+<year id="2007">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="136887">
+<title>Post-modern design /</title>
+<copies>1</copies>
+<isbn>0847811360</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/136887</url>
+<loan_history><total>15</total>
+<schools>
+<school id="T">14</school>
+</schools>
+<years>
+<year id="1998">2</year>
+<year id="1999">4</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2005">1</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="137399">
+<title>Eric Owen Moss : buildings and projects ; preface, Philip Johnson ; introduction, Wolf D. Prix.</title>
+<copies>1</copies>
+<isbn>0847814319</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/137399</url>
+<loan_history><total>9</total>
+<schools>
+<school id="T">8</school>
+</schools>
+<years>
+<year id="1999">3</year>
+<year id="2000">2</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">1</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="174492">
+<title>Health in the inner city /</title>
+<copies>5</copies>
+<isbn>0433001526</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/174492</url>
+<loan_history><total>46</total>
+<schools>
+<school id="H">38</school>
+<school id="S">5</school>
+</schools>
+<courses>
+<course id="HN100">17</course>
+<course id="HP110">3</course>
+</courses>
+<years>
+<year id="1998">2</year>
+<year id="1999">2</year>
+<year id="2000">19</year>
+<year id="2001">7</year>
+<year id="2002">6</year>
+<year id="2003">1</year>
+<year id="2004">4</year>
+<year id="2005">3</year>
+<year id="2006">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="193851">
+<title>The cultural construction of sexuality /</title>
+<copies>3</copies>
+<isbn>0422608807</isbn>
+<isbn>0415040132</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/193851</url>
+<loan_history><total>21</total>
+<schools>
+<school id="A">4</school>
+<school id="D">4</school>
+<school id="H">10</school>
+</schools>
+<courses>
+<course id="AH100">3</course>
+<course id="HB110">3</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="2000">1</year>
+<year id="2001">4</year>
+<year id="2002">4</year>
+<year id="2003">1</year>
+<year id="2004">2</year>
+<year id="2006">4</year>
+<year id="2007">2</year>
+<year id="2008">2</year>
+</years>
+</loan_history>
+</item>
+<item id="197267">
+<title>Media education /</title>
+<copies>2</copies>
+<isbn>0340536950</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/197267</url>
+<loan_history><total>10</total>
+<schools>
+<school id="D">10</school>
+</schools>
+<courses>
+<course id="D174">8</course>
+</courses>
+<years>
+<year id="2000">7</year>
+<year id="2005">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="197271">
+<title>Food poisoning and food hygiene /</title>
+<copies>5</copies>
+<isbn>034053740X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/197271</url>
+<loan_history><total>146</total>
+<schools>
+<school id="H">5</school>
+<school id="S">134</school>
+</schools>
+<courses>
+<course id="SC120">5</course>
+<course id="SF100">56</course>
+<course id="SF110">11</course>
+<course id="SF120">5</course>
+<course id="SF300">23</course>
+</courses>
+<years>
+<year id="1996">2</year>
+<year id="1998">5</year>
+<year id="1999">17</year>
+<year id="2000">16</year>
+<year id="2001">13</year>
+<year id="2002">17</year>
+<year id="2003">14</year>
+<year id="2004">16</year>
+<year id="2005">14</year>
+<year id="2006">9</year>
+<year id="2007">9</year>
+<year id="2008">14</year>
+</years>
+</loan_history>
+</item>
+<item id="198150">
+<title>Liszt /</title>
+<copies>1</copies>
+<isbn>0333150643</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/198150</url>
+<loan_history><total>6</total>
+<schools>
+<school id="A">5</school>
+</schools>
+<courses>
+<course id="AM100">3</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">2</year>
+<year id="2000">1</year>
+<year id="2004">2</year>
+</years>
+</loan_history>
+</item>
+<item id="199534">
+<title>One of us : a biography of Margaret Thatcher /</title>
+<copies>3</copies>
+<isbn>0333344391</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/199534</url>
+<loan_history><total>59</total>
+<schools>
+<school id="A">46</school>
+<school id="H">10</school>
+</schools>
+<courses>
+<course id="AH100">12</course>
+<course id="AH110">3</course>
+<course id="AH230">7</course>
+<course id="AH400">3</course>
+<course id="AX290">4</course>
+<course id="HB140">10</course>
+</courses>
+<years>
+<year id="1998">7</year>
+<year id="1999">7</year>
+<year id="2000">9</year>
+<year id="2001">6</year>
+<year id="2002">6</year>
+<year id="2003">6</year>
+<year id="2004">6</year>
+<year id="2005">4</year>
+<year id="2006">1</year>
+<year id="2007">6</year>
+<year id="2008">1</year>
+</years>
+</loan_history>
+</item>
+<item id="199809">
+<title>Student supervision /</title>
+<copies>3</copies>
+<isbn>0333376722</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/199809</url>
+<loan_history><total>19</total>
+<schools>
+<school id="D">5</school>
+<school id="H">8</school>
+</schools>
+<courses>
+<course id="HS110">3</course>
+</courses>
+<years>
+<year id="1999">3</year>
+<year id="2000">2</year>
+<year id="2001">3</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">3</year>
+<year id="2005">4</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="200668">
+<title>Building maintenance /</title>
+<copies>2</copies>
+<isbn>0333457005</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/200668</url>
+<loan_history><total>9</total>
+<schools>
+<school id="T">8</school>
+</schools>
+<years>
+<year id="1998">4</year>
+<year id="1999">1</year>
+<year id="2001">2</year>
+<year id="2003">1</year>
+<year id="2005">1</year>
+</years>
+</loan_history>
+</item>
+<item id="200822">
+<title>Freud : a life for our time /</title>
+<copies>2</copies>
+<isbn>0333486382</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/200822</url>
+<loan_history><total>36</total>
+<schools>
+<school id="A">6</school>
+<school id="H">26</school>
+</schools>
+<courses>
+<course id="HB100">7</course>
+<course id="HB110">16</course>
+</courses>
+<years>
+<year id="1999">3</year>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">7</year>
+<year id="2003">8</year>
+<year id="2004">6</year>
+<year id="2005">1</year>
+<year id="2006">4</year>
+<year id="2007">2</year>
+<year id="2008">3</year>
+</years>
+</loan_history>
+</item>
+<item id="200824">
+<title>Study skills /</title>
+<copies>13</copies>
+<isbn>0333486943</isbn>
+<isbn>0333487788</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/200824</url>
+<loan_history><total>69</total>
+<schools>
+<school id="B">10</school>
+<school id="C">15</school>
+<school id="D">15</school>
+<school id="H">16</school>
+<school id="S">3</school>
+</schools>
+<courses>
+<course id="CC100">3</course>
+<course id="CC123">4</course>
+<course id="DP300">3</course>
+<course id="HN100">3</course>
+<course id="HP100">4</course>
+</courses>
+<years>
+<year id="2000">16</year>
+<year id="2001">9</year>
+<year id="2002">10</year>
+<year id="2003">4</year>
+<year id="2004">13</year>
+<year id="2005">7</year>
+<year id="2006">5</year>
+<year id="2007">2</year>
+<year id="2008">3</year>
+</years>
+</loan_history>
+</item>
+<item id="202822">
+<title>An approach to Shakespeare.</title>
+<copies>3</copies>
+<isbn>0370002571</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/202822</url>
+<loan_history><total>12</total>
+<schools>
+<school id="A">7</school>
+<school id="D">3</school>
+</schools>
+<courses>
+<course id="AE100">5</course>
+</courses>
+<years>
+<year id="1996">1</year>
+<year id="1999">1</year>
+<year id="2001">1</year>
+<year id="2002">4</year>
+<year id="2003">2</year>
+<year id="2004">2</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="204730">
+<title>Introduction to building management /</title>
+<copies>1</copies>
+<isbn>0408025409</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/204730</url>
+<loan_history><total>6</total>
+<schools>
+<school id="T">4</school>
+</schools>
+<years>
+<year id="1999">2</year>
+<year id="2002">1</year>
+<year id="2003">1</year>
+<year id="2005">1</year>
+<year id="2007">1</year>
+</years>
+</loan_history>
+</item>
+<item id="205247">
+<title>Journal bearings in turbomachinery /</title>
+<copies>1</copies>
+<isbn>0412095904</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/205247</url>
+<loan_history><total>7</total>
+<schools>
+<school id="C">7</school>
+</schools>
+<courses>
+<course id="NM550">3</course>
+</courses>
+<years>
+<year id="2000">1</year>
+<year id="2001">1</year>
+<year id="2002">1</year>
+<year id="2003">2</year>
+<year id="2004">1</year>
+<year id="2006">1</year>
+</years>
+</loan_history>
+</item>
+<item id="205417">
+<title>Introduction to thermodynamics /</title>
+<copies>9</copies>
+<isbn>0412476401</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/205417</url>
+<loan_history><total>62</total>
+<schools>
+<school id="B">5</school>
+<school id="C">52</school>
+</schools>
+<courses>
+<course id="BM400">4</course>
+<course id="NM100">7</course>
+<course id="NM117">3</course>
+<course id="NM300">4</course>
+</courses>
+<years>
+<year id="1996">6</year>
+<year id="1998">10</year>
+<year id="1999">15</year>
+<year id="2000">12</year>
+<year id="2001">3</year>
+<year id="2003">8</year>
+<year id="2004">1</year>
+<year id="2006">1</year>
+<year id="2007">2</year>
+<year id="2008">4</year>
+</years>
+</loan_history>
+</item>
+</items></circulation_data>

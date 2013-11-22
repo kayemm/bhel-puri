@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<school_index>
+<description>This file provides an ID mapping for the seven Academic Schools at the University of Huddersfield.</description>
+<license>
+<type>CC0 / Open Data Commons</type>
+<statement>To the extent possible under law, Computing and Library Services, University of Huddersfield, UK has waived all copyright, moral rights, database rights, and any other rights that might be asserted over the data contained within this file.</statement>
+<url>http://labs.creativecommons.org/licenses/zero/1.0</url>
+<url>http://wiki.creativecommons.org/CC0</url>
+<url>http://www.opendatacommons.org</url>
+</license>
+<schools>
+<school id="A">School of Music, Humanities and Media</school>
+<school id="B">Business School</school>
+<school id="C">School of Computing and Engineering</school>
+<school id="D">School of Education and Professional Development</school>
+<school id="H">School of Human and Health Sciences</school>
+<school id="S">School of Applied Sciences</school>
+<school id="T">School of Art, Design and Architecture</school>
+</schools>
+</school_index>

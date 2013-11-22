@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suggestion_data>
+<description>This file contains recommendation data from our &quot;people who borrowed this, also borrowed...&quot; service. For each recommendation, attributes include the number of times both items were borrowed (common), the number of times the suggested item was borrowed before, after or at the same time, and the total number of times the suggested item has been borrowed (useful for re-ranking the results).</description>
+<licence>
+<type>CC0 / Open Data Commons</type>
+<statement>To the extent possible under law, Computing and Library Services, University of Huddersfield, UK has waived all copyright, moral rights, database rights, and any other rights that might be asserted over the data contained within this file.</statement>
+<url>http://labs.creativecommons.org/licenses/zero/1.0</url>
+<url>http://wiki.creativecommons.org/CC0</url>
+<url>http://www.opendatacommons.org</url>
+</licence>
+<items>
+<item id="3034">
+<isbn>9971848708</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/3034</url>
+<title>Tropical urban regionalism : building in a South-east Asian city /</title>
+<suggestions>
+<isbn id="101047" common="6" before="5" same="0" after="1" total="91">0750620188</isbn>
+<isbn id="24308" common="6" before="2" same="1" after="3" total="46">0898741262</isbn>
+<isbn id="354204" common="5" before="2" same="0" after="3" total="47">0419209700</isbn>
+<isbn id="73506" common="5" before="4" same="0" after="1" total="137">0262620014</isbn>
+<isbn id="73506" common="5" before="4" same="0" after="1" total="137">0262120046</isbn>
+<isbn id="120185" common="5" before="4" same="1" after="0" total="118">0851399673</isbn>
+</suggestions>
+</item>
+<item id="6881">
+<isbn>0855202971</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/6881</url>
+<title>Terrorism : a challenge to the state /</title>
+<suggestions>
+<isbn id="24389" common="6" before="1" same="5" after="0" total="12">0903450194</isbn>
+</suggestions>
+</item>
+<item id="11039">
+<isbn>185381590X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/11039</url>
+<title>Daughters of decadence : women writers of the Fin de Si&#232;cle /</title>
+<suggestions>
+<isbn id="213988" common="33" before="4" same="6" after="23" total="66">0860682544</isbn>
+<isbn id="128192" common="27" before="20" same="0" after="7" total="268">0582063574</isbn>
+<isbn id="128192" common="27" before="20" same="0" after="7" total="268">0582063582</isbn>
+<isbn id="228577" common="26" before="14" same="1" after="11" total="121">0415135737</isbn>
+<isbn id="228577" common="26" before="14" same="1" after="11" total="121">0415135745</isbn>
+<isbn id="311110" common="24" before="12" same="9" after="3" total="35">0140431845</isbn>
+<isbn id="402323" common="23" before="16" same="2" after="5" total="70">0415280117</isbn>
+<isbn id="402323" common="23" before="16" same="2" after="5" total="70">0415280125</isbn>
+<isbn id="100346" common="21" before="13" same="0" after="8" total="95">041501011X</isbn>
+<isbn id="213990" common="21" before="4" same="12" after="5" total="38">0192828851</isbn>
+<isbn id="200579" common="20" before="15" same="0" after="5" total="64">0333446038</isbn>
+<isbn id="200579" common="20" before="15" same="0" after="5" total="64">033344602X</isbn>
+<isbn id="107946" common="20" before="13" same="0" after="7" total="128">0415049288</isbn>
+<isbn id="48738" common="19" before="15" same="1" after="3" total="45">0860681904</isbn>
+</suggestions>
+</item>
+<item id="17812">
+<isbn>0893036854</isbn>
+<isbn>0893030538</isbn>
+<isbn>0893030511</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/17812</url>
+<title>Nursing ethics : theories and pragmatics /</title>
+<suggestions>
+<isbn id="336530" common="11" before="6" same="0" after="5" total="1117">0702024481</isbn>
+<isbn id="200960" common="10" before="7" same="0" after="3" total="326">033352134X</isbn>
+<isbn id="340574" common="9" before="1" same="0" after="8" total="772">0632051582</isbn>
+<isbn id="200958" common="9" before="4" same="5" after="0" total="103">0333520459</isbn>
+<isbn id="245236" common="9" before="5" same="0" after="4" total="1001">0192625918</isbn>
+<isbn id="245236" common="9" before="5" same="0" after="4" total="1001">0192625926</isbn>
+<isbn id="61106" common="8" before="1" same="0" after="7" total="638">0138914257</isbn>
+<isbn id="346725" common="8" before="2" same="0" after="6" total="627">0702025372</isbn>
+<isbn id="233374" common="8" before="5" same="0" after="3" total="294">0443052018</isbn>
+<isbn id="374477" common="8" before="3" same="0" after="5" total="281">0781723620</isbn>
+<isbn id="111788" common="8" before="5" same="0" after="3" total="268">044303950X</isbn>
+</suggestions>
+</item>
+<item id="22582">
+<isbn>0910251290</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/22582</url>
+<title>A leisure of one's own : a feminist perspective on women's leisure /</title>
+<suggestions>
+<isbn id="91710" common="10" before="2" same="3" after="5" total="170">0419194207</isbn>
+<isbn id="200494" common="7" before="2" same="5" after="0" total="106">0333434463</isbn>
+<isbn id="209661" common="6" before="3" same="1" after="2" total="114">0415077036</isbn>
+<isbn id="209661" common="6" before="3" same="1" after="2" total="114">0415077044</isbn>
+<isbn id="241279" common="5" before="2" same="0" after="3" total="767">0631201033</isbn>
+<isbn id="241279" common="5" before="2" same="0" after="3" total="767">0631201041</isbn>
+<isbn id="211878" common="5" before="3" same="2" after="0" total="40">0335153550</isbn>
+</suggestions>
+</item>
+<item id="26600">
+<isbn>1857280016</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/26600</url>
+<title>Surveys in social research /</title>
+<suggestions>
+<isbn id="22888" common="12" before="7" same="2" after="3" total="1265">1855670445</isbn>
+<isbn id="22888" common="12" before="7" same="2" after="3" total="1265">0826451764</isbn>
+<isbn id="376220" common="10" before="1" same="7" after="2" total="97">0335202411</isbn>
+<isbn id="376220" common="10" before="1" same="7" after="2" total="97">0335202403</isbn>
+<isbn id="376987" common="6" before="3" same="0" after="3" total="391">0335205356</isbn>
+<isbn id="376987" common="6" before="3" same="0" after="3" total="391">0335205364</isbn>
+<isbn id="257988" common="6" before="3" same="3" after="0" total="213">0810818841</isbn>
+<isbn id="218145" common="5" before="1" same="4" after="0" total="92">0803957548</isbn>
+<isbn id="126087" common="5" before="3" same="1" after="1" total="508">0803955405</isbn>
+<isbn id="126087" common="5" before="3" same="1" after="1" total="508">0803946538</isbn>
+<isbn id="123975" common="5" before="3" same="0" after="2" total="329">0803932510</isbn>
+<isbn id="123975" common="5" before="3" same="0" after="2" total="329">0803932502</isbn>
+<isbn id="415034" common="5" before="4" same="0" after="1" total="128">0761947434</isbn>
+<isbn id="415034" common="5" before="4" same="0" after="1" total="128">0761947426</isbn>
+<isbn id="218146" common="5" before="0" same="5" after="0" total="121">0803971680</isbn>
+<isbn id="300271" common="5" before="5" same="0" after="0" total="114">0761953515</isbn>
+<isbn id="300271" common="5" before="5" same="0" after="0" total="114">0761953507</isbn>
+</suggestions>
+</item>
+<item id="39795">
+<isbn>0884151077</isbn>
+<isbn>0872010740</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/39795</url>
+<title>The adult learner : a neglected species /</title>
+<suggestions>
+<isbn id="61106" common="57" before="20" same="19" after="18" total="638">0138914257</isbn>
+<isbn id="79728" common="55" before="12" same="33" after="10" total="243">0024031216</isbn>
+<isbn id="248953" common="50" before="15" same="27" after="8" total="338">033519687X</isbn>
+<isbn id="248953" common="50" before="15" same="27" after="8" total="338">0335196233</isbn>
+<isbn id="346725" common="45" before="15" same="15" after="15" total="627">0702025372</isbn>
+<isbn id="210566" common="43" before="13" same="16" after="14" total="468">0702017205</isbn>
+<isbn id="59588" common="41" before="13" same="16" after="12" total="508">0132952610</isbn>
+<isbn id="278341" common="39" before="9" same="23" after="7" total="405">0333695879</isbn>
+<isbn id="23159" common="36" before="7" same="15" after="14" total="513">1555422209</isbn>
+<isbn id="40312" common="31" before="6" same="19" after="6" total="247">187136423X</isbn>
+<isbn id="38247" common="30" before="8" same="7" after="15" total="231">1850913005</isbn>
+</suggestions>
+</item>
+<item id="48024">
+<isbn>1873882084</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/48024</url>
+<title>Business education in the secondary school : a CTC response /</title>
+<suggestions>
+<isbn id="230298" common="7" before="2" same="3" after="2" total="78">0435330985</isbn>
+<isbn id="291021" common="6" before="3" same="0" after="3" total="388">0415142210</isbn>
+<isbn id="225062" common="5" before="0" same="2" after="3" total="49">1858381037</isbn>
+</suggestions>
+</item>
+<item id="54945">
+<isbn>0116705809</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/54945</url>
+<title>Common defects in buildings /</title>
+<suggestions>
+<isbn id="127104" common="5" before="0" same="1" after="4" total="17">0582051088</isbn>
+<isbn id="297819" common="5" before="1" same="1" after="3" total="109">0750637536</isbn>
+</suggestions>
+</item>
+<item id="62434">
+<isbn>0140222316</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/62434</url>
+<title>Sixteenth-century England /</title>
+<suggestions>
+<isbn id="90128" common="21" before="9" same="6" after="6" total="109">0582313481</isbn>
+<isbn id="131465" common="20" before="11" same="4" after="5" total="156">0416578004</isbn>
+<isbn id="22739" common="19" before="4" same="0" after="15" total="403">086299490X</isbn>
+<isbn id="113055" common="19" before="6" same="5" after="8" total="115">0521336317</isbn>
+<isbn id="113055" common="19" before="6" same="5" after="8" total="115">0521333377</isbn>
+<isbn id="229452" common="18" before="5" same="10" after="3" total="68">0198203217</isbn>
+<isbn id="229475" common="17" before="4" same="0" after="13" total="145">0521379504</isbn>
+<isbn id="229475" common="17" before="4" same="0" after="13" total="145">0521370760</isbn>
+<isbn id="214459" common="17" before="11" same="1" after="5" total="107">0521098092</isbn>
+<isbn id="214459" common="17" before="11" same="1" after="5" total="107">0521200547</isbn>
+<isbn id="90833" common="16" before="8" same="0" after="8" total="250">0631186433</isbn>
+<isbn id="78817" common="16" before="10" same="0" after="6" total="168">0006861466</isbn>
+<isbn id="101967" common="16" before="3" same="2" after="11" total="111">052134932X</isbn>
+<isbn id="101967" common="16" before="3" same="2" after="11" total="111">0521252946</isbn>
+</suggestions>
+</item>
+<item id="63407">
+<isbn>0140806911</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/63407</url>
+<title>Social anarchism /</title>
+<suggestions>
+<isbn id="95216" common="5" before="0" same="4" after="1" total="10">0521233240</isbn>
+</suggestions>
+</item>
+<item id="64491">
+<isbn>0192181629</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/64491</url>
+<title>Race, community, and conflict : a study of Sparkbrook /</title>
+<suggestions>
+<isbn id="293011" common="5" before="3" same="1" after="1" total="163">0761950249</isbn>
+<isbn id="293011" common="5" before="3" same="1" after="1" total="163">0761950494</isbn>
+</suggestions>
+</item>
+<item id="65091">
+<isbn>0193163047</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/65091</url>
+<title>The New Oxford history of music. Age of humanism 1540-1630 /</title>
+<suggestions>
+<isbn id="294425" common="6" before="3" same="1" after="2" total="110">0393971694</isbn>
+<isbn id="50943" common="5" before="4" same="0" after="1" total="58">0091209005</isbn>
+<isbn id="50855" common="5" before="1" same="1" after="3" total="53">0091132606</isbn>
+<isbn id="200759" common="5" before="4" same="0" after="1" total="36">0333472616</isbn>
+<isbn id="104943" common="5" before="1" same="0" after="4" total="31">0521264286</isbn>
+</suggestions>
+</item>
+<item id="65326">
+<isbn>0194327108</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/65326</url>
+<title>A training course for TEFL /</title>
+<suggestions>
+<isbn id="110442" common="6" before="0" same="5" after="1" total="8">0415058821</isbn>
+</suggestions>
+</item>
+<item id="66513">
+<isbn>0198200870</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/66513</url>
+<title>North-eastern England during the Wars of the Roses : lay society, war and politics, 1450-1500 /</title>
+<suggestions>
+<isbn id="198902" common="12" before="11" same="0" after="1" total="223">0333255046</isbn>
+<isbn id="195622" common="12" before="0" same="10" after="2" total="151">0333406036</isbn>
+<isbn id="90833" common="11" before="9" same="0" after="2" total="250">0631186433</isbn>
+<isbn id="22739" common="10" before="6" same="0" after="4" total="403">086299490X</isbn>
+<isbn id="331396" common="10" before="10" same="0" after="0" total="347">1860642985</isbn>
+<isbn id="331396" common="10" before="10" same="0" after="0" total="347">1860642373</isbn>
+<isbn id="198589" common="10" before="10" same="0" after="0" total="296">0333212932</isbn>
+<isbn id="77058" common="10" before="8" same="0" after="2" total="179">0300048750</isbn>
+<isbn id="108670" common="9" before="2" same="7" after="0" total="91">050027407X</isbn>
+<isbn id="108670" common="9" before="2" same="7" after="0" total="91">0500250499</isbn>
+<isbn id="22451" common="9" before="1" same="5" after="3" total="29">0862991633</isbn>
+<isbn id="127136" common="9" before="6" same="0" after="3" total="151">0582051290</isbn>
+<isbn id="127136" common="9" before="6" same="0" after="3" total="151">0582051282</isbn>
+</suggestions>
+</item>
+<item id="67143">
+<isbn>0198271964</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/67143</url>
+<title>Karl Marx's theory of history : a defence.</title>
+<suggestions>
+<isbn id="22707" common="10" before="4" same="0" after="6" total="292">0862994780</isbn>
+<isbn id="198589" common="8" before="6" same="0" after="2" total="296">0333212932</isbn>
+<isbn id="90833" common="8" before="5" same="0" after="3" total="250">0631186433</isbn>
+<isbn id="323520" common="7" before="0" same="0" after="7" total="93">0750914858</isbn>
+<isbn id="112479" common="7" before="3" same="4" after="0" total="79">0521329221</isbn>
+<isbn id="272175" common="7" before="5" same="0" after="2" total="217">0719040035</isbn>
+<isbn id="272175" common="7" before="5" same="0" after="2" total="217">0719040043</isbn>
+<isbn id="127136" common="7" before="1" same="0" after="6" total="151">0582051290</isbn>
+<isbn id="127136" common="7" before="1" same="0" after="6" total="151">0582051282</isbn>
+<isbn id="131217" common="7" before="1" same="0" after="6" total="115">0704332809</isbn>
+<isbn id="201001" common="6" before="2" same="1" after="3" total="219">0333531752</isbn>
+<isbn id="77070" common="6" before="2" same="0" after="4" total="145">0300053428</isbn>
+<isbn id="77070" common="6" before="2" same="0" after="4" total="145">0300060769</isbn>
+</suggestions>
+</item>
+<item id="68818">
+<isbn>0201066734</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/68818</url>
+<title>Algorithms /</title>
+<suggestions>
+<isbn id="207145" common="6" before="1" same="3" after="2" total="138">020154329X</isbn>
+</suggestions>
+</item>
+<item id="207125">
+<isbn>0201175584</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/207125</url>
+<title>Electronics : a systems approach /</title>
+<suggestions>
+<isbn id="290582" common="50" before="24" same="6" after="20" total="195">020117796X</isbn>
+<isbn id="292426" common="25" before="6" same="4" after="15" total="77">0333658205</isbn>
+<isbn id="251094" common="22" before="5" same="3" after="14" total="126">0136507638</isbn>
+<isbn id="206462" common="22" before="6" same="6" after="10" total="106">0582226961</isbn>
+<isbn id="207451" common="21" before="6" same="2" after="13" total="130">0333620224</isbn>
+<isbn id="244248" common="20" before="7" same="1" after="12" total="76">0340645954</isbn>
+<isbn id="214863" common="18" before="5" same="0" after="13" total="158">0471956031</isbn>
+<isbn id="205474" common="17" before="6" same="0" after="11" total="88">0412562707</isbn>
+<isbn id="259752" common="16" before="5" same="1" after="10" total="63">0134956729</isbn>
+<isbn id="79922" common="16" before="10" same="0" after="6" total="57">0028005929</isbn>
+</suggestions>
+</item>
+<item id="71926">
+<isbn>0241905931</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/71926</url>
+<title>Silent spring /</title>
+<suggestions>
+<isbn id="44707" common="5" before="0" same="2" after="3" total="78">0875844103</isbn>
+<isbn id="68054" common="5" before="0" same="0" after="5" total="61">019874157X</isbn>
+<isbn id="68054" common="5" before="0" same="0" after="5" total="61">0198741561</isbn>
+<isbn id="89152" common="5" before="0" same="0" after="5" total="46">0582301289</isbn>
+<isbn id="418726" common="5" before="1" same="0" after="4" total="28">0632048859</isbn>
+<isbn id="220865" common="5" before="1" same="0" after="4" total="22">0582301564</isbn>
+<isbn id="233367" common="5" before="2" same="0" after="3" total="149">0340652624</isbn>
+</suggestions>
+</item>
+<item id="72943">
+<isbn>0255362633</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/72943</url>
+<title>The emerging British underclass /</title>
+<suggestions>
+<isbn id="229664" common="28" before="7" same="1" after="20" total="208">0335194087</isbn>
+<isbn id="229664" common="28" before="7" same="1" after="20" total="208">0335194095</isbn>
+<isbn id="229180" common="27" before="0" same="25" after="2" total="60">0415050138</isbn>
+<isbn id="229180" common="27" before="0" same="25" after="2" total="60">0415050146</isbn>
+<isbn id="298657" common="27" before="11" same="8" after="8" total="238">0415158303</isbn>
+<isbn id="298657" common="27" before="11" same="8" after="8" total="238">041515829X</isbn>
+<isbn id="326206" common="26" before="18" same="0" after="8" total="225">0415165016</isbn>
+<isbn id="326206" common="26" before="18" same="0" after="8" total="225">0415165008</isbn>
+<isbn id="326206" common="26" before="18" same="0" after="8" total="225">0203018990</isbn>
+<isbn id="405890" common="24" before="8" same="12" after="4" total="134">0199251940</isbn>
+<isbn id="405890" common="24" before="8" same="12" after="4" total="134">019925107X</isbn>
+<isbn id="378198" common="21" before="12" same="1" after="8" total="178">0415216893</isbn>
+<isbn id="378198" common="21" before="12" same="1" after="8" total="178">0415216907</isbn>
+<isbn id="193839" common="21" before="16" same="0" after="5" total="174">0333409795</isbn>
+<isbn id="193839" common="21" before="16" same="0" after="5" total="174">0333409809</isbn>
+<isbn id="251656" common="19" before="0" same="14" after="5" total="32">0255363559</isbn>
+<isbn id="314107" common="19" before="11" same="2" after="6" total="170">1872582176</isbn>
+<isbn id="377978" common="19" before="7" same="0" after="12" total="123">0333912705</isbn>
+</suggestions>
+</item>
+<item id="75745">
+<isbn>028970846X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/75745</url>
+<title>The art &amp; craft of handmade paper /</title>
+<suggestions>
+<isbn id="27064" common="6" before="1" same="2" after="3" total="45">1857329643</isbn>
+<isbn id="314384" common="5" before="1" same="0" after="4" total="123">187014581X</isbn>
+<isbn id="346447" common="5" before="1" same="0" after="4" total="118">0952626748</isbn>
+</suggestions>
+</item>
+<item id="76264">
+<isbn>0297769561</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/76264</url>
+<title>The Edwardians : the remaking of British society /</title>
+<suggestions>
+<isbn id="22739" common="17" before="6" same="0" after="11" total="403">086299490X</isbn>
+<isbn id="72022" common="17" before="1" same="13" after="3" total="132">024551053X</isbn>
+<isbn id="66611" common="15" before="8" same="0" after="7" total="220">0198217129</isbn>
+<isbn id="119098" common="14" before="7" same="0" after="7" total="198">041509898X</isbn>
+<isbn id="119098" common="14" before="7" same="0" after="7" total="198">0415098971</isbn>
+<isbn id="331396" common="13" before="4" same="3" after="6" total="347">1860642985</isbn>
+<isbn id="331396" common="13" before="4" same="3" after="6" total="347">1860642373</isbn>
+<isbn id="272175" common="12" before="4" same="0" after="8" total="217">0719040035</isbn>
+<isbn id="272175" common="12" before="4" same="0" after="8" total="217">0719040043</isbn>
+<isbn id="108113" common="12" before="4" same="0" after="8" total="197">0582489768</isbn>
+<isbn id="108113" common="12" before="4" same="0" after="8" total="197">058248975X</isbn>
+<isbn id="119338" common="12" before="5" same="0" after="7" total="191">0415102316</isbn>
+<isbn id="2370" common="11" before="3" same="0" after="8" total="234">0860915468</isbn>
+<isbn id="95602" common="11" before="0" same="0" after="11" total="118">0413522407</isbn>
+</suggestions>
+</item>
+<item id="76441">
+<isbn>029778403X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/76441</url>
+<title>The music makers : heirs and rebels of the English musical renaissance, Edward Elgar to Benjamin Britten /</title>
+<suggestions>
+<isbn id="202607" common="5" before="0" same="4" after="1" total="21">0356037738</isbn>
+</suggestions>
+</item>
+<item id="83004">
+<isbn>0050019422</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83004</url>
+<title>Electrical power systems /</title>
+<suggestions>
+<isbn id="310054" common="6" before="3" same="2" after="1" total="59">0471976776</isbn>
+<isbn id="205969" common="5" before="3" same="0" after="2" total="53">0077077148</isbn>
+<isbn id="206380" common="5" before="1" same="2" after="2" total="28">0534939600</isbn>
+<isbn id="85533" common="5" before="2" same="1" after="2" total="11">0070612935</isbn>
+<isbn id="206462" common="5" before="4" same="0" after="1" total="106">0582226961</isbn>
+</suggestions>
+</item>
+<item id="83097">
+<isbn>0050028685</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83097</url>
+<title>An introduction to soil science /</title>
+<suggestions>
+<isbn id="234714" common="7" before="2" same="2" after="3" total="41">0415068878</isbn>
+<isbn id="234910" common="6" before="3" same="1" after="2" total="59">031402834X</isbn>
+<isbn id="68053" common="6" before="1" same="0" after="5" total="30">0198745102</isbn>
+</suggestions>
+</item>
+<item id="83670">
+<isbn>0063180979</isbn>
+<isbn>006318170X</isbn>
+<isbn>0063181088</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/83670</url>
+<title>Person to person : ways of communicating /</title>
+<suggestions>
+<isbn id="108474" common="19" before="3" same="13" after="3" total="348">0415051142</isbn>
+<isbn id="366172" common="6" before="1" same="4" after="1" total="67">0340781769</isbn>
+<isbn id="316473" common="6" before="1" same="5" after="0" total="113">0852927711</isbn>
+<isbn id="428217" common="5" before="3" same="0" after="2" total="235">0471272493</isbn>
+<isbn id="428217" common="5" before="3" same="0" after="2" total="235">0471451533</isbn>
+<isbn id="243466" common="5" before="1" same="0" after="4" total="204">0761950354</isbn>
+<isbn id="243466" common="5" before="1" same="0" after="4" total="204">0761950362</isbn>
+<isbn id="132761" common="5" before="0" same="5" after="0" total="15">041667450X</isbn>
+<isbn id="132761" common="5" before="0" same="5" after="0" total="15">0416552900</isbn>
+</suggestions>
+</item>
+<item id="86758">
+<isbn>0080128181</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/86758</url>
+<title>Verbal conditioning and behaviour.</title>
+<suggestions>
+<isbn id="70317" common="5" before="5" same="0" after="0" total="269">0224010751</isbn>
+</suggestions>
+</item>
+<item id="93435">
+<isbn>0709900457</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/93435</url>
+<title>Marx's theory of ideology /</title>
+<suggestions>
+<isbn id="126758" common="5" before="0" same="4" after="1" total="40">0745600638</isbn>
+</suggestions>
+</item>
+<item id="105410">
+<isbn>0669846570</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/105410</url>
+<title>The making of modern Japan.</title>
+<suggestions>
+<isbn id="76204" common="8" before="2" same="3" after="3" total="54">029776604X</isbn>
+<isbn id="76204" common="8" before="2" same="3" after="3" total="54">0297766031</isbn>
+<isbn id="197390" common="8" before="3" same="5" after="0" total="50">0395206650</isbn>
+<isbn id="194867" common="6" before="0" same="5" after="1" total="43">0312693109</isbn>
+<isbn id="127759" common="5" before="4" same="1" after="0" total="102">0540010936</isbn>
+</suggestions>
+</item>
+<item id="105578">
+<isbn>0415038812</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/105578</url>
+<title>Feminism and the power of law /</title>
+<suggestions>
+<isbn id="67229" common="5" before="1" same="3" after="1" total="78">0198277385</isbn>
+<isbn id="195687" common="5" before="3" same="1" after="1" total="57">0333417917</isbn>
+<isbn id="195687" common="5" before="3" same="1" after="1" total="57">0333417909</isbn>
+<isbn id="384196" common="5" before="2" same="0" after="3" total="1389">0631213058</isbn>
+<isbn id="384196" common="5" before="2" same="0" after="3" total="1389">063121304X</isbn>
+</suggestions>
+</item>
+<item id="112624">
+<isbn>0571146279</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/112624</url>
+<title>The market for glory : Fleet Street ownership in the twentieth century /</title>
+<suggestions>
+<isbn id="110666" common="7" before="0" same="6" after="1" total="97">0415060222</isbn>
+<isbn id="232348" common="7" before="1" same="3" after="3" total="113">0198711328</isbn>
+<isbn id="91039" common="5" before="1" same="4" after="0" total="58">0566009307</isbn>
+<isbn id="105927" common="5" before="2" same="0" after="3" total="37">0801306507</isbn>
+<isbn id="67163" common="5" before="1" same="3" after="1" total="23">019827243X</isbn>
+<isbn id="109290" common="5" before="1" same="0" after="4" total="187">0415054443</isbn>
+<isbn id="109290" common="5" before="1" same="0" after="4" total="187">0415054451</isbn>
+<isbn id="344324" common="5" before="0" same="0" after="5" total="168">0582306051</isbn>
+<isbn id="233157" common="5" before="2" same="0" after="3" total="151">1898240043</isbn>
+<isbn id="280125" common="5" before="2" same="1" after="2" total="130">0415141354</isbn>
+<isbn id="280125" common="5" before="2" same="1" after="2" total="130">0415141362</isbn>
+<isbn id="104611" common="5" before="0" same="0" after="5" total="106">0709945809</isbn>
+</suggestions>
+</item>
+<item id="113248">
+<isbn>0571151965</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/113248</url>
+<title>Collected poems /</title>
+<suggestions>
+<isbn id="283145" common="5" before="1" same="0" after="4" total="347">0415071070</isbn>
+<isbn id="283145" common="5" before="1" same="0" after="4" total="347">0415071062</isbn>
+<isbn id="299634" common="5" before="1" same="0" after="4" total="103">013837659X</isbn>
+</suggestions>
+</item>
+<item id="114052">
+<isbn>071313660X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/114052</url>
+<title>Advanced vehicle technology /</title>
+<suggestions>
+<isbn id="133717" common="7" before="2" same="3" after="2" total="31">0748705163</isbn>
+<isbn id="27431" common="6" before="1" same="2" after="3" total="78">1560911999</isbn>
+<isbn id="294053" common="6" before="2" same="0" after="4" total="47">1560918314</isbn>
+<isbn id="294053" common="6" before="2" same="0" after="4" total="47">0340677961</isbn>
+<isbn id="214863" common="6" before="3" same="0" after="3" total="158">0471956031</isbn>
+<isbn id="370961" common="5" before="0" same="1" after="4" total="67">0768006694</isbn>
+<isbn id="294601" common="5" before="3" same="2" after="0" total="18">0750637633</isbn>
+<isbn id="228009" common="5" before="3" same="0" after="2" total="130">0132339331</isbn>
+</suggestions>
+</item>
+<item id="117045">
+<isbn>0716100681</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/117045</url>
+<title>Total distribution : a framework for analysis, costing and control.</title>
+<suggestions>
+<isbn id="99104" common="5" before="2" same="0" after="3" total="251">0566090090</isbn>
+</suggestions>
+</item>
+<item id="124444">
+<isbn>0460031783</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/124444</url>
+<title>Beethoven /</title>
+<suggestions>
+<isbn id="79967" common="17" before="6" same="0" after="11" total="95">0028720202</isbn>
+<isbn id="103920" common="16" before="1" same="13" after="2" total="71">0571090036</isbn>
+<isbn id="513268" common="15" before="13" same="0" after="2" total="218">039395272X</isbn>
+<isbn id="100608" common="15" before="8" same="1" after="6" total="109">0571049168</isbn>
+<isbn id="117471" common="14" before="4" same="0" after="10" total="99">0521390443</isbn>
+<isbn id="333306" common="12" before="4" same="0" after="8" total="98">0521627389</isbn>
+<isbn id="95351" common="12" before="6" same="0" after="6" total="97">0486229165</isbn>
+<isbn id="66429" common="12" before="5" same="6" after="1" total="37">0198161484</isbn>
+</suggestions>
+</item>
+<item id="125628">
+<isbn>0460042394</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/125628</url>
+<title>Life &amp; tradition in West Yorkshire /</title>
+<suggestions>
+<isbn id="384304" common="5" before="1" same="4" after="0" total="20">0340023724</isbn>
+</suggestions>
+</item>
+<item id="126717">
+<isbn>0471951366</isbn>
+<isbn>0471906751</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/126717</url>
+<title>Diagnosing the system : for organizations /</title>
+<suggestions>
+<isbn id="194616" common="16" before="2" same="9" after="5" total="81">0306438771</isbn>
+<isbn id="101917" common="14" before="4" same="5" after="5" total="99">0471279110</isbn>
+<isbn id="254516" common="14" before="8" same="2" after="4" total="239">0273615912</isbn>
+<isbn id="250782" common="13" before="2" same="4" after="7" total="206">0761906320</isbn>
+<isbn id="250782" common="13" before="2" same="4" after="7" total="206">0761906312</isbn>
+<isbn id="323570" common="11" before="3" same="6" after="2" total="149">0471986054</isbn>
+<isbn id="130668" common="9" before="0" same="2" after="7" total="37">0471922889</isbn>
+<isbn id="132300" common="8" before="2" same="3" after="3" total="90">0471927686</isbn>
+<isbn id="60224" common="8" before="2" same="3" after="3" total="258">0135516641</isbn>
+<isbn id="242326" common="6" before="2" same="0" after="4" total="78">0789500523</isbn>
+<isbn id="132012" common="6" before="0" same="2" after="4" total="73">0471927163</isbn>
+</suggestions>
+</item>
+<item id="127468">
+<isbn>0460126032</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127468</url>
+<title>Messiaen /</title>
+<suggestions>
+<isbn id="513268" common="11" before="9" same="0" after="2" total="218">039395272X</isbn>
+<isbn id="111536" common="10" before="2" same="8" after="0" total="34">057113534X</isbn>
+<isbn id="113824" common="10" before="2" same="5" after="3" total="31">0571170331</isbn>
+<isbn id="229649" common="8" before="2" same="0" after="6" total="128">0198165110</isbn>
+<isbn id="95351" common="7" before="4" same="0" after="3" total="97">0486229165</isbn>
+</suggestions>
+</item>
+<item id="127554">
+<isbn>0691076286</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127554</url>
+<title>Power and ideology in Brazil /</title>
+<suggestions>
+<isbn id="80633" common="5" before="0" same="4" after="1" total="10">0030620376</isbn>
+</suggestions>
+</item>
+<item id="127930">
+<isbn>0416337406</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/127930</url>
+<title>Help for dyslexic children /</title>
+<suggestions>
+<isbn id="357028" common="6" before="0" same="4" after="2" total="70">0415111323</isbn>
+</suggestions>
+</item>
+<item id="129399">
+<isbn>0803988338</isbn>
+<isbn>0803985592</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/129399</url>
+<title>Growing up and growing old : ageing and dependency in the life course /</title>
+<suggestions>
+<isbn id="224983" common="11" before="1" same="8" after="2" total="114">0415112583</isbn>
+<isbn id="224983" common="11" before="1" same="8" after="2" total="114">0415112591</isbn>
+<isbn id="207827" common="9" before="2" same="6" after="1" total="164">0335158617</isbn>
+<isbn id="207827" common="9" before="2" same="6" after="1" total="164">0335158609</isbn>
+<isbn id="207853" common="9" before="4" same="5" after="0" total="123">0335157246</isbn>
+<isbn id="207853" common="9" before="4" same="5" after="0" total="123">0335157254</isbn>
+<isbn id="228719" common="8" before="1" same="5" after="2" total="221">0335191754</isbn>
+<isbn id="228719" common="8" before="1" same="5" after="2" total="221">0335191762</isbn>
+<isbn id="130710" common="7" before="1" same="6" after="0" total="110">0803989660</isbn>
+<isbn id="130710" common="7" before="1" same="6" after="0" total="110">0803989652</isbn>
+<isbn id="329844" common="6" before="2" same="1" after="3" total="60">0335201660</isbn>
+<isbn id="329844" common="6" before="2" same="1" after="3" total="60">0335201652</isbn>
+<isbn id="365049" common="5" before="3" same="1" after="1" total="123">063121707X</isbn>
+<isbn id="365049" common="5" before="3" same="1" after="1" total="123">0631217088</isbn>
+</suggestions>
+</item>
+<item id="131155">
+<isbn>0713445084</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/131155</url>
+<title>Language in multicultural classrooms /</title>
+<suggestions>
+<isbn id="129408" common="8" before="4" same="3" after="1" total="54">0582079209</isbn>
+<isbn id="9152" common="8" before="2" same="2" after="4" total="41">1853591785</isbn>
+<isbn id="251742" common="7" before="1" same="3" after="3" total="75">1853593583</isbn>
+<isbn id="251742" common="7" before="1" same="3" after="3" total="75">1853593575</isbn>
+<isbn id="122596" common="7" before="2" same="5" after="0" total="34">0713164913</isbn>
+<isbn id="316407" common="7" before="5" same="1" after="1" total="196">0340700025</isbn>
+<isbn id="316407" common="7" before="5" same="1" after="1" total="196">0340652101</isbn>
+<isbn id="105716" common="6" before="3" same="0" after="3" total="88">0713119837</isbn>
+<isbn id="193903" common="6" before="2" same="4" after="0" total="26">1853592099</isbn>
+<isbn id="193903" common="6" before="2" same="4" after="0" total="26">1853592102</isbn>
+<isbn id="298377" common="6" before="5" same="0" after="1" total="216">074561549X</isbn>
+<isbn id="298377" common="6" before="5" same="0" after="1" total="216">0745615481</isbn>
+<isbn id="128432" common="6" before="4" same="0" after="2" total="180">058206466X</isbn>
+<isbn id="136623" common="6" before="4" same="0" after="2" total="131">0582291038</isbn>
+</suggestions>
+</item>
+<item id="174492">
+<isbn>0433001526</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/174492</url>
+<title>Health in the inner city /</title>
+<suggestions>
+<isbn id="245236" common="12" before="2" same="3" after="7" total="1001">0192625918</isbn>
+<isbn id="245236" common="12" before="2" same="3" after="7" total="1001">0192625926</isbn>
+<isbn id="336530" common="10" before="1" same="6" after="3" total="1117">0702024481</isbn>
+<isbn id="218110" common="9" before="5" same="4" after="0" total="220">0415110211</isbn>
+<isbn id="218110" common="9" before="5" same="4" after="0" total="220">041511022X</isbn>
+<isbn id="97946" common="8" before="3" same="2" after="3" total="267">0203393007</isbn>
+<isbn id="97946" common="8" before="3" same="2" after="3" total="267">0415001463</isbn>
+<isbn id="97946" common="8" before="3" same="2" after="3" total="267">0415001471</isbn>
+<isbn id="61106" common="7" before="1" same="0" after="6" total="638">0138914257</isbn>
+<isbn id="234519" common="7" before="5" same="2" after="0" total="432">0333644964</isbn>
+<isbn id="234519" common="7" before="5" same="2" after="0" total="432">0333644972</isbn>
+<isbn id="127629" common="7" before="0" same="0" after="7" total="220">0471909912</isbn>
+<isbn id="210786" common="6" before="2" same="1" after="3" total="493">0333577698</isbn>
+<isbn id="252032" common="6" before="4" same="1" after="1" total="264">0333694163</isbn>
+<isbn id="252032" common="6" before="4" same="1" after="1" total="264">0333694171</isbn>
+<isbn id="280744" common="6" before="0" same="0" after="6" total="235">0815128797</isbn>
+</suggestions>
+</item>
+<item id="193851">
+<isbn>0422608807</isbn>
+<isbn>0415040132</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/193851</url>
+<title>The cultural construction of sexuality /</title>
+<suggestions>
+<isbn id="271520" common="5" before="0" same="4" after="1" total="72">0415122686</isbn>
+<isbn id="271520" common="5" before="0" same="4" after="1" total="72">0415084946</isbn>
+<isbn id="293818" common="5" before="2" same="3" after="0" total="42">0803990421</isbn>
+<isbn id="368002" common="5" before="3" same="1" after="1" total="128">033520225X</isbn>
+<isbn id="368002" common="5" before="3" same="1" after="1" total="128">0335202241</isbn>
+</suggestions>
+</item>
+<item id="197271">
+<isbn>034053740X</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/197271</url>
+<title>Food poisoning and food hygiene /</title>
+<suggestions>
+<isbn id="53910" common="40" before="24" same="1" after="15" total="204">0113213972</isbn>
+<isbn id="329092" common="32" before="17" same="0" after="15" total="179">0443056277</isbn>
+<isbn id="33801" common="32" before="21" same="0" after="11" total="153">3527262164</isbn>
+<isbn id="320917" common="32" before="15" same="11" after="6" total="100">1871912660</isbn>
+<isbn id="95910" common="25" before="8" same="6" after="11" total="79">0442009895</isbn>
+<isbn id="346280" common="24" before="7" same="8" after="9" total="83">0412754401</isbn>
+<isbn id="100711" common="23" before="6" same="2" after="15" total="98">0750617756</isbn>
+<isbn id="237844" common="23" before="7" same="1" after="15" total="96">0905367111</isbn>
+<isbn id="259722" common="23" before="16" same="4" after="3" total="121">075062373X</isbn>
+<isbn id="205338" common="22" before="13" same="1" after="8" total="98">0412429500</isbn>
+</suggestions>
+</item>
+<item id="199534">
+<isbn>0333344391</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/199534</url>
+<title>One of us : a biography of Margaret Thatcher /</title>
+<suggestions>
+<isbn id="90305" common="20" before="7" same="11" after="2" total="102">0631182683</isbn>
+<isbn id="67215" common="15" before="8" same="6" after="1" total="139">0198275218</isbn>
+<isbn id="67215" common="15" before="8" same="6" after="1" total="139">0198275226</isbn>
+<isbn id="199660" common="15" before="5" same="6" after="4" total="101">0333363108</isbn>
+<isbn id="494363" common="14" before="3" same="11" after="0" total="83">0006383211</isbn>
+<isbn id="494363" common="14" before="3" same="11" after="0" total="83">0002550490</isbn>
+<isbn id="331396" common="14" before="8" same="1" after="5" total="347">1860642985</isbn>
+<isbn id="331396" common="14" before="8" same="1" after="5" total="347">1860642373</isbn>
+<isbn id="334457" common="13" before="3" same="4" after="6" total="156">0750915730</isbn>
+<isbn id="248946" common="12" before="9" same="2" after="1" total="181">0192852523</isbn>
+<isbn id="248946" common="12" before="9" same="2" after="1" total="181">0192853503</isbn>
+<isbn id="255113" common="11" before="4" same="2" after="5" total="165">0719042909</isbn>
+<isbn id="255113" common="11" before="4" same="2" after="5" total="165">0719042917</isbn>
+<isbn id="348108" common="10" before="1" same="0" after="9" total="47">071468094X</isbn>
+<isbn id="22707" common="10" before="4" same="0" after="6" total="292">0862994780</isbn>
+</suggestions>
+</item>
+<item id="199809">
+<isbn>0333376722</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/199809</url>
+<title>Student supervision /</title>
+<suggestions>
+<isbn id="310180" common="5" before="1" same="2" after="2" total="64">0333516346</isbn>
+<isbn id="115498" common="5" before="1" same="0" after="4" total="315">0415078989</isbn>
+<isbn id="208964" common="5" before="0" same="4" after="1" total="201">0335191789</isbn>
+<isbn id="208964" common="5" before="0" same="4" after="1" total="201">0335191770</isbn>
+</suggestions>
+</item>
+<item id="200822">
+<isbn>0333486382</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/200822</url>
+<title>Freud : a life for our time /</title>
+<suggestions>
+<isbn id="359590" common="9" before="5" same="0" after="4" total="328">0863775519</isbn>
+<isbn id="70317" common="9" before="5" same="2" after="2" total="269">0224010751</isbn>
+<isbn id="274627" common="8" before="5" same="0" after="3" total="821">0745618030</isbn>
+<isbn id="274627" common="8" before="5" same="0" after="3" total="821">0745618022</isbn>
+<isbn id="281780" common="8" before="1" same="0" after="7" total="198">0582311055</isbn>
+<isbn id="338969" common="7" before="5" same="0" after="2" total="850">0003275078</isbn>
+<isbn id="126534" common="7" before="1" same="5" after="1" total="70">0745600131</isbn>
+<isbn id="314610" common="7" before="3" same="0" after="4" total="273">0761961062</isbn>
+<isbn id="314610" common="7" before="3" same="0" after="4" total="273">0761961054</isbn>
+<isbn id="297340" common="7" before="3" same="0" after="4" total="271">063120007X</isbn>
+<isbn id="297342" common="7" before="3" same="0" after="4" total="216">0631194126</isbn>
+<isbn id="423399" common="6" before="1" same="1" after="4" total="192">1403904669</isbn>
+<isbn id="423399" common="6" before="1" same="1" after="4" total="192">1403904650</isbn>
+</suggestions>
+</item>
+<item id="200824">
+<isbn>0333486943</isbn>
+<isbn>0333487788</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/200824</url>
+<title>Study skills /</title>
+<suggestions>
+<isbn id="330714" common="12" before="2" same="10" after="0" total="379">0333751892</isbn>
+<isbn id="91345" common="6" before="1" same="4" after="1" total="45">0631188517</isbn>
+<isbn id="135173" common="6" before="0" same="6" after="0" total="266">0749200448</isbn>
+<isbn id="251873" common="5" before="0" same="5" after="0" total="60">0572021852</isbn>
+<isbn id="520083" common="5" before="0" same="0" after="5" total="363">0826471153</isbn>
+<isbn id="293034" common="5" before="0" same="4" after="1" total="29">0751520888</isbn>
+<isbn id="419211" common="5" before="2" same="2" after="1" total="208">1403911355</isbn>
+<isbn id="384076" common="5" before="1" same="4" after="0" total="189">0566084309</isbn>
+<isbn id="22888" common="5" before="2" same="0" after="3" total="1265">1855670445</isbn>
+<isbn id="22888" common="5" before="2" same="0" after="3" total="1265">0826451764</isbn>
+</suggestions>
+</item>
+<item id="205417">
+<isbn>0412476401</isbn>
+<url>http://library.hud.ac.uk/catlink/bib/205417</url>
+<title>Introduction to thermodynamics /</title>
+<suggestions>
+<isbn id="206426" common="11" before="2" same="1" after="8" total="117">0582022479</isbn>
+<isbn id="130607" common="7" before="0" same="7" after="0" total="39">0582091934</isbn>
+<isbn id="228009" common="7" before="5" same="0" after="2" total="130">0132339331</isbn>
+<isbn id="207153" common="6" before="4" same="0" after="2" total="87">0201565021</isbn>
+<isbn id="238056" common="6" before="4" same="1" after="1" total="63">0412616009</isbn>
+<isbn id="95945" common="6" before="3" same="0" after="3" total="41">0471107743</isbn>
+<isbn id="50346" common="5" before="2" same="0" after="3" total="57">0080311512</isbn>
+<isbn id="297838" common="5" before="1" same="0" after="4" total="28">0131474634</isbn>
+<isbn id="294484" common="5" before="1" same="0" after="4" total="23">0133969460</isbn>
+<isbn id="206382" common="5" before="2" same="1" after="2" total="21">0534939783</isbn>
+</suggestions>
+</item>
+</items>
+</suggestion_data>

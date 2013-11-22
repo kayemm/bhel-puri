@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<course_index>
+<description>This file provides an ID mapping for the academic courses at the University of Huddersfield. The school attribute maps to the schools.xml file.  For mappings to relevant UCAS codes, see the ucas.xml file.</description>
+<licence>
+<type>CC0 / Open Data Commons</type>
+<statement>To the extent possible under law, Computing and Library Services, University of Huddersfield, UK has waived all copyright, moral rights, database rights, and any other rights that might be asserted over the data contained within this file.</statement>
+<url>http://labs.creativecommons.org/licenses/zero/1.0</url>
+<url>http://wiki.creativecommons.org/CC0</url>
+<url>http://www.opendatacommons.org</url>
+</licence>
+<courses>
+<course id="AE100" school="A">BA ENGLISH</course>
+<course id="AE110" school="A">BA ENGLISH AND MEDIA</course>
+<course id="AE130" school="A">BA MEDIA</course>
+<course id="AE200" school="A">BA ENGLISH STUDIES (PT)</course>
+<course id="AH100" school="A">BA HISTORY</course>
+<course id="AH110" school="A">BA POLITICS</course>
+<course id="AH230" school="A">BA HUMANITIES</course>
+<course id="AH400" school="A">MA HISTORY</course>
+<course id="AH702" school="A">INDIVIDUALISED PROGRAMME</course>
+<course id="AM100" school="A">BMUS</course>
+<course id="AM110" school="A">BA MUSIC</course>
+<course id="AM120" school="A">BA MUSIC TECHNOLOGY</course>
+<course id="AM300" school="A">MA MUSIC FT</course>
+<course id="AM400" school="A">MA MUSIC PT</course>
+<course id="AX290" school="A">ASSOCIATE STUDENTS</course>
+<course id="BE100" school="B">BA BUSINESS STUDIES</course>
+<course id="BL100" school="B">LLB LAW (FT)</course>
+<course id="BM300" school="B">MASTER OF BUSINESS ADMINISTRATION FT</course>
+<course id="BM400" school="B">DMS/MBA PT</course>
+<course id="BM610" school="B">CIPD</course>
+<course id="CC100" school="C">COMPUTING BSC FT/SW PROGRAMMES</course>
+<course id="CC123" school="C">INFORMATION SYSTEMS HND FT/SW PROGRAMME</course>
+<course id="CC140" school="C">COMPUTING TOP UP DEGREE PROGRAMME</course>
+<course id="CC300" school="C">COMPUTING MSC FT PROGRAMME</course>
+<course id="CC310" school="C">INFORMATION SYSTEMS MSC FT PROGRAMMES</course>
+<course id="CC400" school="C">COMPUTING MSC PT PROGRAMME</course>
+<course id="CC420" school="C">INFORMATION SYSTEMS MSC/MA PROGRAMMES</course>
+<course id="D112" school="D">BA YOUTH AND COMMUNITY WORK</course>
+<course id="D174" school="D">PGCE (PCET)</course>
+<course id="D250" school="D">DIPLOMA IN PROFESSIONAL STUDIES: YOUTH &amp; COMMUNITY</course>
+<course id="D274" school="D">PGCE BUSINESS EDUCATION (SCHOOLS)</course>
+<course id="D275" school="D">PGCE MUSIC (SCHOOLS)</course>
+<course id="D312" school="D">BA YOUTH AND COMMUNITY WORK</course>
+<course id="D374" school="D">PGCE (PCET) (LSC FUNDED)</course>
+<course id="D509" school="D">BA COMMUNITY EDUCATION</course>
+<course id="D716" school="D">PGCE MUSIC ( SCHOOLS) (2 YEAR COURSE)</course>
+<course id="D801" school="D">DIPLOMA IN PROFESSIONAL STUDIES (YOUTH &amp; COMMUNITY WORK)</course>
+<course id="DC130" school="D">DIPLOMA IN PROFEESIONAL STUDIES :YOUTH &amp; COMMUNITY</course>
+<course id="DI400" school="D">MA PROFESSIONAL DEVELOPMENT</course>
+<course id="DI490" school="D">MA PROFESSIONAL DEVELOPMENT (TDA FUNDED)</course>
+<course id="DP250" school="D">BA EDUCATION &amp; TRAINING (UNIVERSITY)</course>
+<course id="DP300" school="D">PGCE (PCET)</course>
+<course id="DP417" school="D">PGCE (MANCAT)</course>
+<course id="HB100" school="H">BSC BEHAVIOURAL SCIENCES</course>
+<course id="HB110" school="H">BSC PSYCHOLOGY</course>
+<course id="HB130" school="H">BSC CRIMINOLOGY</course>
+<course id="HB140" school="H">BA POLITICS</course>
+<course id="HF722" school="H">PREPARATION FOR THE ROLE OF MENTOR ASSESSOR &amp; PRECEPTOR (WY CONFED)</course>
+<course id="HH100" school="H">BSC HEALTH AND COMMUNITY STUDIES</course>
+<course id="HH120" school="H">BSC SOCIAL WORK/DIPLOMA IN SOCIAL WORK</course>
+<course id="HH207" school="H">BSC HEALTH CARE STUDIES PT (WEST YORKS CONFED)</course>
+<course id="HH217" school="H">BSC COMMUNITY SPECIALIST PRACTITIONER (WEST YORKS CONFED)</course>
+<course id="HH277" school="H">BSC PROFESSIONAL STUDIES (WY CONFED)</course>
+<course id="HH400" school="H">POSTGRADUATE HEALTH CARE STUDIES PT</course>
+<course id="HH407" school="H">POSTGRADUATE HEALTH CARE STUDIES PT (WEST YORKS CONFED)</course>
+<course id="HH417" school="H">MSC PUBLIC HEALTH NURSING PRACTICE (SHA CONFED)</course>
+<course id="HH661" school="H">ENB 997/998 TEACHING &amp; ASSESSMENT IN CLINICAL PRACTICE</course>
+<course id="HH923" school="H">SHORT COURSES (30 CREDITS) (SHA CONFED)</course>
+<course id="HH927" school="H">SHORT COURSES (30 CREDITS) POSTGRADUATE (SHA CONFED)</course>
+<course id="HN100" school="H">DIPHE NURSING STUDIES</course>
+<course id="HN110" school="H">BSC NURSING STUDIES</course>
+<course id="HN267" school="H">BSC PROFESSIONAL STUDIES (SHA CONFED)</course>
+<course id="HN750" school="H">DIPLOMA IN PROFESSIONAL STUDIES: MENTAL HEALTH</course>
+<course id="HN940" school="H">SHORT COURSES (40 CREDITS) (SHA CONFED)</course>
+<course id="HP100" school="H">BSC PODIATRY</course>
+<course id="HP110" school="H">BSC SPORTS STUDIES</course>
+<course id="HP140" school="H">BSC MIDWIFERY STUDIES (78 WEEK PROGRAMME)</course>
+<course id="HS100" school="H">BSC APPLIED CRIMINOLOGY</course>
+<course id="HS110" school="H">BSC SOCIAL WORK/DIPLOMA IN SOCIAL WORK</course>
+<course id="HS130" school="H">DIPHE NURSING STUDIES</course>
+<course id="HS140" school="H">BSC NURSING STUDIES</course>
+<course id="HS160" school="H">FOUNDATION DEGREE IN POLICE STUDIES</course>
+<course id="HS430" school="H">MSC LEARNING DISABILITIES - QUALITY OF LIFE</course>
+<course id="HX855" school="H">UNDERGRADUATE ASSOCIATE STUDENTS (SHA CONFED)</course>
+<course id="NE100" school="C">ELECTRICAL MENG/BENG PROGRAMME</course>
+<course id="NE110" school="C">DIGITAL MEDIA BSC FT/SW PROGRAMME</course>
+<course id="NE111" school="C">ELECTRICAL ELECTRONIC DESIGN BSC FT/SW PROGRAMME</course>
+<course id="NE112" school="C">MUSIC TECHNOLOGY BSC FT/SW PROGRAMME</course>
+<course id="NE120" school="C">ELECTRICAL TECHNOLOGY UNDERGRADUATE FT PROGRAMME (HND)</course>
+<course id="NE125" school="C">ELECTRICAL TECHNOLOGY UNDERGRADUATE FT PROGRAMME (DEGREE)</course>
+<course id="NE300" school="C">ELECTRICAL MSC ENGINEERING CONTROL SYSTEMS PROGRAMME</course>
+<course id="NM100" school="C">MECHANICAL MENG/BENG PROGRAMME</course>
+<course id="NM114" school="C">BSC TECHNOLOGY STUDIES: AUTOMOTIVE TECHNOLOGY</course>
+<course id="NM115" school="C">BSC TECHNOLOGY STUDIES: COMPUTER AIDED DESIGN</course>
+<course id="NM117" school="C">BSC AUTOMOTIVE DESIGN AND TECHNOLOGY</course>
+<course id="NM120" school="C">MECHANICAL TECHNOLOGY UNDERGRADUATE FT PROGRAMME (HND)</course>
+<course id="NM300" school="C">MECHANICAL CIMM MSC PROGRAMME</course>
+<course id="NM550" school="C">RESEARCH MECHANICAL ENGINEERING PT</course>
+<course id="NX390" school="C">RESEARCH WRITING UP PERIOD</course>
+<course id="SC100" school="S">UG CHEMICAL SCIENCES FT/SW</course>
+<course id="SC120" school="S">UG ENVIRONMENTAL SCIENCE FT/SW</course>
+<course id="SF100" school="S">UG FOOD AND NUTRITION FT/SW</course>
+<course id="SF110" school="S">UNDERGRADUATE HOSPITALITY MANAGEMENT FT/SW</course>
+<course id="SF120" school="S">HND HOSPITALITY MANAGEMENT</course>
+<course id="SF300" school="S">PG FOOD &amp; NUTRITION FT</course>
+<course id="SG100" school="S">UG GEOGRAPHY FT/SW</course>
+<course id="SG130" school="S">BSC EARTH SCIENCES</course>
+<course id="TA110" school="T">BSc(H) ARCHITECTURAL TECHNOLOGY</course>
+<course id="TA310" school="T">DIPLOMA IN ARCHITECTURE</course>
+<course id="TA400" school="T">MARCH PT</course>
+<course id="TT120" school="T">BA(H) TEXTILE CRAFTS</course>
+<course id="TT150" school="T">BA(H) COSTUME DESIGN WITH TEXTILES</course>
+</courses>
+</course_index>
