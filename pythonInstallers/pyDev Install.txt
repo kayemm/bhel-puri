@@ -1,0 +1,4 @@
+1. PyDev requires Java 1.7 (JRE should do)
+2. For eclipse version > 3.4 onward, extract the contents of the zip file into the eclipse/dropins folder and restart Eclipse.
+
+
