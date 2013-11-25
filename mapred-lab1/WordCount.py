@@ -58,12 +58,12 @@ mr = MapReduce.MapReduce()
 # Initialize commonWordList
 commonWords = []
 
-def mapper(record):
-    # Record Format : A line from the input file.
+def mapper(line):
+    # line format : A line from the input file.
     global commonWordsList
     
     # Split the words in the line using the split() method on a string.
-    allWordsInLine = record.split()
+    allWordsInLine = line.split()
     
     # Initialize the wordsInLine list
     wordsInLine = []

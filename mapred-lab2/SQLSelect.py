@@ -84,7 +84,11 @@ def mapper(record):
     
     # Extract the value of AnswerCount from the record.
     key = record[answerCountIdx]
-    
+
+    # Nothing to do if key is empty
+    if key == "":
+        return
+ 
     # Get the column index for Title, Score, ViewCount and CommentsCount
     titleIdx = columnNames['Title']
     scoreIdx = columnNames['Score']
@@ -94,9 +98,8 @@ def mapper(record):
     # Setup the value as a tuple "val = (a,b,c) "
     value = (record[titleIdx],record[scoreIdx],record[viewCountIdx],record[commentsCountIdx])
     
-    # Emit only if key is not NULL
-    if key <> "":
-        mr.emit_intermediate(key,value)
+    # Emit intermediate key and value
+    mr.emit_intermediate(key,value)
 
 def reducer(key, list_of_values):
      
